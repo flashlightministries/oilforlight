@@ -15,6 +15,7 @@ owner:
 
 business:
   name:           Flashlight Ministries
+  canonical:      http://flmin.org
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
