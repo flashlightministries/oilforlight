@@ -2,12 +2,12 @@
 layout: default
 permalink: /about/index.html
 title: About
-description: We report the news from a strictly biblical point of view.
+description: All the news that's fit for teaching, for reproof, for correction and for training in righteousness.
 ---
 
 ### Our Mission
 
-Like the psalmist says when praising God, "Your word is a lamp to my feet and a light to my path" (Psa 119:105).  The Bible always reveals God's truth surrounding current events because nothing of the world has changed since biblical times: what has been done is what will be done, and there is nothing new under the sun (Ecc 1:9).  Each of our articles pivots around a key Bible passage for exposition of God's Word as it relates to worldly news, and concludes with an uplifting message suitable for teaching and inspiration.
+We report the news from a strictly biblical point of view.  Like the psalmist says when praising God, "Your word is a lamp to my feet and a light to my path" (Psa 119:105).  The Bible always reveals God's truth surrounding current events because nothing of the world has changed since biblical times: what has been done is what will be done, and there is nothing new under the sun (Ecc 1:9).  Each of our articles pivots around a key Bible passage for exposition of God's Word as it relates to worldly news, and concludes with an uplifting message suitable for teaching and inspiration.
 
 As the Holy Spirit dwells within believers and illuminates the Word of God, we hope BIBLE NEWS FLASH sheds light on the news and helps us discern between the spirit of truth and the spirit of error (Jn 14:26; 1Jn 4:6).  The unregenerate person won't understand or appreciate our mission, but a large number of worldly news outlets already exist to serve these poor souls to their satisfaction (1Co 2:14; Jn 3:3; 1Jn 4:5).
 
