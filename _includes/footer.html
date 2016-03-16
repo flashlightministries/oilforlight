@@ -1,5 +1,5 @@
       <footer class="no-news">
-        <small>&copy; {{ site.time | date: '%Y' }} <a href="{{ site.business.canonical }}">{{ site.business.name }}</a>
+        <small>&copy; {{ site.time | date: '%Y' }} <a href="{{ site.business.canonical }}">{{ site.business.name }}</a></small>
       </footer>
     </div>
 
@@ -10,7 +10,25 @@
     <!-- Custom JS -->
     <script src="{{ site.url }}/assets/js/scripts.js"></script>
 
-    {% include reftagger.html %}
+    <!-- JScoll infinite scroller -->
+    <script src="{{ site.url }}/assets/js/jscroll.min.js"></script>
+
+    <script>
+      var refTagger = {
+        settings: {
+          bibleReader: "bible.faithlife",
+          bibleVersion: "ESV",
+          noSearchClassNames: ["date"],
+          socialSharing: [],
+          tagChapters: true
+        }
+      };
+      (function(d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = "//api.reftagger.com/v2/RefTagger.js";
+        s.parentNode.insertBefore(g, s);
+      }(document, "script"));
+    </script>
 
     </body>
   </html>
