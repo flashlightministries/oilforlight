@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Holy, Holy, Holy
+title: Holy, Holy, Holy (Isaiah 6:3)
+author: T. C. Howitt
 comments: true
 ---
 
