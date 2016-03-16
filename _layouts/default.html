@@ -15,17 +15,18 @@
   <div class="featured-image" style="background-image: url({{ site.url }}/images/blue-gradient-64px.png)"></div>
 {% endif %}
 
-
       <article class="wrap post">
-        <header class="post-header">
-          <hgroup>
-            <h1>{{page.title}}</h1>
-            <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
-            <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
-          </hgroup>
-        </header>
+        <div class="article-content">
+          <header class="post-header">
+            <hgroup>
+              <h1>{{page.title}}</h1>
+              <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
+              <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
+            </hgroup>
+          </header>
 
-        {{ content }}
+          {{ content }}
+        </div>
 
       </article>
 

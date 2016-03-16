@@ -4,7 +4,7 @@ title: News
 ---
 
 <!-- This loops through the paginated posts -->
-<div class="post_content">
+<div class="page-content">
   {% for post in paginator.posts %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
     <p class="author">
@@ -30,10 +30,3 @@ title: News
     <span class="next ">Next</span>
   {% endif %}
 </div>
-
-<script>
-  $('.article').jscroll({
-      contentSelector: '.post_content',
-      nextSelector: '.next'
-  });
-</script>
