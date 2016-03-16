@@ -1,24 +1,26 @@
+{% include JB/setup %}
 {% include head.html %}
 
-    <div id='bump'>
-        <section class="article">
-          <div class="overlay-lighter"></div>
-          <div class="featured-image" style="background-image: url({{ site.url }}/images/blue-gradient-64px.png)"></div>
-          <article class="archive-wrap">
-              <header/>
-              <ol class="post-list">
-                  {% for post in site.posts | limit:3 %}
-                  <li>
-                    <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-                        <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
-                        <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
-                        <p class="">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-                    </div>
-                  </li>
-                  {% endfor %}
-              </ol>
-          </article>
-        </section>
+<section class="article">
+
+  <div class="featured-image" style="background-image: url({{ site.url }}/images/blue-gradient-64px.png)"></div>
+
+  <article class="wrap post">
+    <div class="article-content">
+      <header class="post-header">
+        <hgroup>
+          <h1>{{page.title}}</h1>
+          <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
+          <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
+        </hgroup>
+      </header>
+
+      {{ content }}
     </div>
+
+  </article>
+
+</section>
+</div>
 
 {% include footer.html %}
