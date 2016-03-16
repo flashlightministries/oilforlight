@@ -4,7 +4,7 @@ title: News
 ---
 
 <!-- This loops through the paginated posts -->
-<div class="post_content wrap post">
+<div class="post_content">
   {% for post in paginator.posts %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
     <p class="author">
