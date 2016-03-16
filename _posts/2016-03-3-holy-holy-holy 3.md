@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Holy, Holy, Holy
-categories: articles
+title: Holy, Holy, Holy 3
 comments: true
 ---
+
+3
 
 > And one called to another and said:
 >     “Holy, holy, holy is the Lord of hosts;
