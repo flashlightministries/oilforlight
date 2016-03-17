@@ -688,37 +688,40 @@ footer {
 
 @media only screen and (max-width: $breakpoint-2-max-width) {
 
-// Type Fixes
+    // Type Fixes
 
-h1,h2 {
-    font-size: $fs3;
-}
+    h1,h2 {
+        font-size: $fs3;
+    }
 
-blockquote, blockquote p {
-    font-size: $fs4;
-}
+    blockquote, blockquote p {
+        font-size: $fs4;
+    }
 
-footer {
-    font-size: $fs5;
+    footer {
+        font-size: $fs5;
 
-    .prev-posts {
-        li  {
+        .prev-posts {
+            li  {
 
-          .recent-title {
+              .recent-title {
 
-          }
+              }
 
-          span.date {
-              font-size: $fs6;
-          }
+              span.date {
+                  font-size: $fs6;
+              }
+            }
+        }
+
+        .social {
+            right: 10vw;
         }
     }
 
-    .social {
-        right: 10vw;
+    .marquee {
+      -webkit-text-size-adjust: none;
     }
-}
-
 
 }
 
@@ -748,6 +751,10 @@ footer {
             }
         }
 
+    }
+
+    .marquee {
+      -webkit-text-size-adjust: none;
     }
 }
 
@@ -859,6 +866,9 @@ footer {
         }
     }
 
+    .marquee {
+      -webkit-text-size-adjust: none;
+    }
 }
 
 
