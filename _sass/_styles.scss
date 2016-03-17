@@ -917,11 +917,11 @@ p.small {
   overflow: hidden;
 }
 
-.marquee-item {
+.marquee a {
     color: $link;
     padding-right: 25px;
 }
 
-.marquee-item:hover {
+.marquee a:hover {
     color: $accent;
 }
