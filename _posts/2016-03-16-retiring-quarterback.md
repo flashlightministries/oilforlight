@@ -11,12 +11,12 @@ source:
 comments: true
 ---
 
-> Not everyone who says to me, "Lord, Lord," will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven.
->
->> -- Matthew 7:21
-
-If you love God, you will keep his commandments (John 14:15).
+> Not everyone who says to me, "Lord, Lord," will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven (Matthew 7:21).
 
 Using HGH (cheating, breaking rules)
 
 Sexual abuse
+
+> If you love God, you will keep his commandments (John 14:15).
+
+[End with uplifting message]

@@ -11,9 +11,7 @@ source:
 comments: true
 ---
 
-> Now faith is the substance of things hoped for, the evidence of things not seen.  For by it the elders obtained a good report.  Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
->
-> -- Hebrews 11:1-3 KJV
+> Now faith is the substance of things hoped for, the evidence of things not seen.  For by it the elders obtained a good report.  Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear (Hebrews 11:1-3 KJV).
 
 A new paper published in Nature seems to speak with authority when it declares, "This skull represents a previously unknown species that is the sister taxon to Archosauriformes and which fills a major morphological gap in understanding of early archosauriform evolution."
 
@@ -48,3 +46,83 @@ The greatest mass extinction of all time occurred only a few thousand years ago 
 With water, mind you.  In the end, he will instead destroy the world with fire (2Pe 2:10-13) and cast the wicked into the lake of fire with Satan (2Pe 3:7; Rev 20:10, 15).
 
 That's the bad news.  The good news is that God's children in Jesus Christ will be saved (2Ti 4:18; 2Pe 3:9-13).  [Add more.]
+
+[Add more]
+
+Prv 21:24
+“Scoffer” is the name of the arrogant, haughty man who acts with arrogant pride.
+
+1 Corinthians 1:18
+For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God.
+
+Jn 14:26
+But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all that I said to you.
+
+Jn 3:19
+And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil.
+
+2Pe 3:3
+Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,
+
+James 1:5
+If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.
+
+Proverbs 3:5-8
+Trust in the Lord with all your heart, and do not lean on your own understanding.  In all your ways acknowledge him, and he will make straight your paths.  Be not wise in your own eyes; fear the Lord, and turn away from evil.  It will be healing to your flesh and refreshment to your bones.
+
+Proverbs 26:12
+Do you see a man who is wise in his own eyes? There is more hope for a fool than for him.
+
+Proverbs 10:8
+The wise of heart will receive commandments, but a babbling fool will come to ruin.
+
+1 Corinthians 3:19
+For the wisdom of this world is folly with God. For it is written, “He catches the wise in their craftiness,”
+
+1 Corinthians 1:21
+For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe.
+
+1 Corinthians 1:20
+Where is the one who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world?
+
+Proverbs 14:8
+The wisdom of the prudent is to discern his way, but the folly of fools is deceiving.
+
+Exodus 20:11
+For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy.
+
+Exodus 31:17
+It is a sign forever between me and the people of Israel that in six days the LORD made heaven and earth, and on the seventh day he rested and was refreshed.’”
+
+Amos 4:13
+For behold, he who forms the mountains and creates the wind, and declares to man what is his thought, who makes the morning darkness, and treads on the heights of the earth— the LORD, the God of hosts, is his name!
+
+Isaiah 40:28
+Have you not known? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He does not faint or grow weary; his understanding is unsearchable.
+
+Isaiah 42:5-7
+Thus says God, the LORD, who created the heavens and stretched them out, who spread out the earth and what comes from it, who gives breath to the people on it and spirit to those who walk in it: “I am the LORD; I have called you in righteousness; I will take you by the hand and keep you; I will give you as a covenant for the people, a light for the nations, to open the eyes that are blind, to bring out the prisoners from the dungeon, from the prison those who sit in darkness.
+
+Ephesians 3:9-10
+and to bring to light for everyone what is the plan of the mystery hidden for ages in God who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places.
+
+Isaiah 5:21
+Woe to those who are wise in their own eyes, and shrewd in their own sight!
+
+Proverbs 3:7
+Be not wise in your own eyes; fear the LORD, and turn away from evil.
+
+Proverbs 26:12
+Do you see a man who is wise in his own eyes? There is more hope for a fool than for him.
+
+Hebrews 11:1
+Now faith is the assurance of things hoped for, the conviction of things not seen.
+
+Hebrews 11:3
+By faith we understand that the universe was created by the word of God, so that what is seen was not made out of things that are visible.
+
+Colossians 1:16
+For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him.
+
+Romans 1:20
+For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse.
