@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T. C. Howitt
-title: Celebrity seeks recompense after his sins of the flesh are revealed
+title: Celebrity wrestler seeks recompense after his sins of the flesh are revealed
 passage: Romans 1:28
 image:
     feature: http://www.gannett-cdn.com/-mm-/e9f94c41350ae49ff49edd234fbaabaf654f8b2e/c=154-0-3781-2727&r=x404&c=534x401/local/-/media/2016/03/08/USATODAY/USATODAY/635930476311296509-HULK-HOGAN.JPG
