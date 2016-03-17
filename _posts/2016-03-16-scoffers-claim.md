@@ -15,7 +15,7 @@ comments: true
 >
 > -- Hebrews 11:1-3 KJV
 
-A new paper, published in Nature, seems to speak with authority when it declares, "This skull represents a previously unknown species that is the sister taxon to Archosauriformes and which fills a major morphological gap in understanding of early archosauriform evolution."
+A new paper published in Nature seems to speak with authority when it declares, "This skull represents a previously unknown species that is the sister taxon to Archosauriformes and which fills a major morphological gap in understanding of early archosauriform evolution."
 
 They call this creature Teyujagua paradoxa: "Teyú Yaguá, literally meaning ‘fierce lizard’, is commonly represented as a dog-headed lizard. Species name derived from paradoxa, Greek meaning ‘paradoxical’, ‘unexpected’, owing to its unusual combination of plesiomorphic and derived characters."
 
