@@ -80,6 +80,10 @@ blockquote, blockquote p {  font-size: $fs4; }
 
 .archive input { font-size: $fs3}
 
+body{
+  -webkit-text-size-adjust: none;
+}
+
 }
 
 
