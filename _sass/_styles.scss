@@ -294,7 +294,7 @@ header.site-header nav {
         background: rgba(0,0,0,.1);
     }
 
-    .featured-image {
+    .nav {
         vertical-align: middle;
         min-height: 64px;
         height: 50vh;
@@ -312,6 +312,11 @@ header.site-header nav {
         img {
             max-height: 64px;
         }
+    }
+
+    .featured-image {
+        width: auto;
+        max-height: 450px;
     }
 
     // Header Stuff
