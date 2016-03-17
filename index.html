@@ -8,13 +8,15 @@ layout: default
     {% for post in paginator.posts %}
       <tr>
         <td class="post-thumb-container">
-          {% if post.image.feature %}
-            {% if post.image.feature contains 'https://' | escape or post.image.feature contains 'http://' | escape %}
-            <image src="{{ post.image.feature }}"></image>
-            {% else %}
-            <image src="{{ site.url }}/images/{{ post.image.feature }}"></image>
+          <div>
+            {% if post.image.feature %}
+              {% if post.image.feature contains 'https://' | escape or post.image.feature contains 'http://' | escape %}
+              <a href="{{ post.url }}"><image src="{{ post.image.feature }}"></image></a>
+              {% else %}
+              <a href="{{ post.url }}"><image src="{{ site.url }}/images/{{ post.image.feature }}"></image></a>
+              {% endif %}
             {% endif %}
-          {% endif %}
+          </div>
         </td>
 
         <td class="post-content-container">
