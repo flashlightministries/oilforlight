@@ -4,24 +4,33 @@ layout: default
 
 <!-- This loops through the paginated posts -->
 <div class="page-content">
-  {% for post in paginator.posts %}
+  <table>
+    {% for post in paginator.posts %}
+      <tr>
+        <td class="post-thumb-container">
+          {% if post.image.feature %}
+            {% if post.image.feature contains 'https://' | escape or post.image.feature contains 'http://' | escape %}
+            <image src="{{ post.image.feature }}"></image>
+            {% else %}
+            <image src="{{ site.url }}/images/{{ post.image.feature }}"></image>
+            {% endif %}
+          {% endif %}
+        </td>
 
-      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-      <p class="date">
-        <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
-      </p>
+        <td class="post-content-container">
+          <div>
+            <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
 
-      {% if post.image.feature %}
-        {% if post.image.feature contains 'https://' | escape or post.image.feature contains 'http://' | escape %}
-        <image src="{{ post.image.feature }}"></image>
-        {% else %}
-        <image src="{{ site.url }}/images/{{ post.image.feature }}"></image>
-        {% endif %}
-      {% endif %}
+            <p class="date">
+              <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
+            </p>
 
-      <p class="content">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncatewords: 25 }}{% else %}{{ post.content | strip_html | strip_newlines | truncatewords: 25 }}{% endif %}</p>
-
-  {% endfor %}
+            <p class="content">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncatewords: 25 }}{% else %}{{ post.content | strip_html | strip_newlines | truncatewords: 25 }}{% endif %}</p>
+          </div>
+        </td>
+      </tr>
+    {% endfor %}
+  </table>
 </div>
 
 <!-- Pagination links -->

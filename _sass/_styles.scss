@@ -310,7 +310,7 @@ header.site-header nav {
         top: 0;
         z-index: -1;
         img {
-            max-height: 800px;
+            max-height: 64px;
         }
     }
 
@@ -872,5 +872,24 @@ small {
     z-index: 0;
 }
 
+td.post-thumb-container {
+    height: 119px;
+    width: 84px;
+    vertical-align: top;
+    padding-right: 12px;
+}
 
+td.post-thumb-container > img {
+    height: 72px;
+    width: 72px;
+}
 
+td.post-content-container {
+    width: 100%;
+    vertical-align: top;
+}
+
+td.post-content-container > div {
+    height: 100%;
+    overflow:hidden;
+}
