@@ -332,9 +332,15 @@ header.site-header nav {
                 font-family: $sans;
                 font-size: $fs5;
                 font-weight: bold;
-                color: $grey-light;
+                color: $grey-medium;
                 text-transform: uppercase;
                 margin-top: $lh * 2/3;
+            }
+            .author {
+                font-size: $fs5;
+                font-weight: bold;
+                padding-right: 8px;
+                color: $grey-dark;
             }
         }
 
@@ -442,7 +448,7 @@ header.site-header nav {
             font-weight: bold;
             font-family: $sans;
             font-style: normal;
-            color: $grey-light;
+            color: $grey-medium;
             text-transform: uppercase;
             vertical-align: middle;
         }
@@ -897,4 +903,8 @@ td.post-content-container {
 td.post-content-container > div {
     height: 100%;
     overflow:hidden;
+}
+
+p.small {
+    line-height: 0%;
 }
