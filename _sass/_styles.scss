@@ -749,10 +749,6 @@ footer {
         }
 
     }
-
-    .marquee {
-      -webkit-text-size-adjust: none;
-    }
 }
 
 @media only screen and (max-width : 680px) {
@@ -919,6 +915,8 @@ p.small {
 .marquee {
   width: 100%;
   overflow: hidden;
+
+  -webkit-text-size-adjust: none;
 }
 
 .marquee a {
