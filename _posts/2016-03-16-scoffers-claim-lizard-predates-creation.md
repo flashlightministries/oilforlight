@@ -15,7 +15,9 @@ comments: true
 
 A new paper published in Nature seems to speak with authority when it declares, "This skull represents a previously unknown species that is the sister taxon to Archosauriformes and which fills a major morphological gap in understanding of early archosauriform evolution."
 
-They call this creature Teyujagua paradoxa: "Teyú Yaguá, literally meaning ‘fierce lizard’, is commonly represented as a dog-headed lizard. Species name derived from paradoxa, Greek meaning ‘paradoxical’, ‘unexpected’, owing to its unusual combination of plesiomorphic and derived characters."
+They call this creature Teyujagua paradoxa:
+
+> Teyú Yaguá, literally meaning ‘fierce lizard’, is commonly represented as a dog-headed lizard. Species name derived from paradoxa, Greek meaning ‘paradoxical’, ‘unexpected’, owing to its unusual combination of plesiomorphic and derived characters.
 
 These researchers pose a serious paradox indeed -- the findings of this paper go against the Book of Genesis, which clearly and simply describes how creation came about, told from the perspective of the only being who was there to witness it: God (Gen 1:1-2).
 
@@ -23,7 +25,7 @@ Based on the Book of Genesis and the genealogies listed in 1 and 2 Chronicles, a
 
 The researchers who wrote this paper estimate that the skull they found is 250 million years old, 40,000 times older than creation.  How did these wise men estimate the age of the lizard dog to be so old?
 
-"An Induan to early Olenekian (Lower Triassic) age is inferred for the Sanga do Cabral Formation based on the presence of Procolophon trigoniceps, and comparisons with the coeval Lystrosaurus Assemblage Zone of the South African Karoo."
+> An Induan to early Olenekian (Lower Triassic) age is inferred for the Sanga do Cabral Formation based on the presence of Procolophon trigoniceps, and comparisons with the coeval Lystrosaurus Assemblage Zone of the South African Karoo.
 
 Consider the keyword "inferred."  There are a few inferences embedded in that quote, inferences based on theory upon theory, upon layers of circumstantial evidence.  They suffer from the fallacy of uniformitarianism, the belief that natural phenomena have always behaved as they do now.
 
@@ -33,7 +35,7 @@ Rather than scoffing at God's biblical truth as preposterous, unbelievers ought 
 
 Here's how the researchers confidently express the shaky grounds of their own beliefs:
 
-"However, the origins of this clade and its extraordinarily successful body plan remain obscure ... the acquisition of this highly successful cranial morphology from more primitive reptiles is poorly understood due to the patchy and fragmentary nature of the early archosauriform fossil record, and the absence of key transitional taxa showing intermediate morphologies."
+> However, the origins of this clade and its extraordinarily successful body plan remain obscure ... the acquisition of this highly successful cranial morphology from more primitive reptiles is poorly understood due to the patchy and fragmentary nature of the early archosauriform fossil record, and the absence of key transitional taxa showing intermediate morphologies.
 
 They appear to feel no distress over their epistemological condition of perpetual research based on obscure, patchy and fragmentary evidence, never reaching understanding, never seeing the light of truth, but only developing evermore abstract theories that lead them deeper and deeper into darkness (1Co 3:19).
 
