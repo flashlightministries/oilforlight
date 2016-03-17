@@ -10,6 +10,7 @@
       <hgroup>
         <h1>{{page.title}}</h1>
         <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
+        Source: <a target="_blank" href="{{ page.source.url }}">{{ page.source.name }}</a>
 
         {% if page.image.feature %}
           {% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}
@@ -19,7 +20,6 @@
           {% endif %}
         {% endif %}
 
-        Source: <a target="_blank" href="{{ page.source.url }}">{{ page.source.name }}</a>
       </hgroup>
     </header>
 
