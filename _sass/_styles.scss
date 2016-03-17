@@ -605,8 +605,11 @@ footer {
         font-family: $sans;
         text-transform: uppercase;
         color: transparentize($white, .3);
-        a {
-            color: transparentize($white, .1);
+        a a:visited {
+            color: $link;
+        }
+        a:hover {
+            color: $link-light;
         }
     }
 
@@ -907,4 +910,18 @@ td.post-content-container > div {
 
 p.small {
     line-height: 0%;
+}
+
+.marquee {
+  width: 100%;
+  overflow: hidden;
+}
+
+.marquee-item {
+    color: $link;
+    padding-right: 25px;
+}
+
+.marquee-item:hover {
+    color: $accent;
 }

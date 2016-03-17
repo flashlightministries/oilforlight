@@ -11,6 +11,7 @@
     <script src="{{ site.url }}/assets/js/scripts.js"></script>
 
     <script>
+      // RefTagger
       var refTagger = {
         settings: {
           bibleReader: "bible.faithlife",
@@ -32,10 +33,24 @@
         refTagger.tag();
       };
 
+      // JScroll
       $('.article-content').jscroll({
           contentSelector: '.page-content',
           nextSelector: '.next',
           callback: refTag
+      });
+
+      // Marquee
+      var widths = $('.marquee').width()
+      var duration = widths * 7;
+      $('.marquee').marquee({
+          pauseOnHover: true,
+          duration: duration,
+          gap: $('.marquee').width(),
+          delayBeforeStart: 0,
+          direction: 'left',
+          //true or false - should the marquee be duplicated to show an effect of continues flow
+          duplicated: false
       });
     </script>
 
