@@ -1,7 +1,8 @@
 ---
 layout: post
 author: T. C. Howitt
-title: Retiring quarterback asks God to bless football (Matthew 7:21)
+title: Retiring quarterback asks God to bless football
+passage: Matthew 7:21
 image:
     feature: http://static1.businessinsider.com/image/56b825206e97c662008b58c2-480/peyton-manning-sb-50.jpg
 comments: true

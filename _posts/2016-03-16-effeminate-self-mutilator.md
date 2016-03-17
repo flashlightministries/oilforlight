@@ -1,7 +1,8 @@
 ---
 layout: post
 author: T. C. Howitt
-title: Effeminate self-mutilator to promote transhumanist cult agenda (Romans 1:28)
+title: Effeminate self-mutilator to promote transhumanist cult agenda
+passage: Romans 1:28
 image:
     feature: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Martine_Rothblatt.jpg/220px-Martine_Rothblatt.jpg
 article: https://www.washingtonpost.com/national/health-science/a-transgender-biotech-running-cybercreator-debates-artificial-intelligence/2016/03/07/6b2f1da4-e14e-11e5-846c-10191d1fc4ec_story.html
