@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /mission/index.html
 title: Our Mission
 description: All the news that's fit for teaching, for reproof, for correction and for training in righteousness.
