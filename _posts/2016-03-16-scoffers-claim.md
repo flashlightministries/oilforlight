@@ -5,7 +5,9 @@ title: Scoffers claim lizard skull is 40,000 times older than creation
 passage: Hebrews 11:1-3
 image:
     feature: http://static01.nyt.com/images/2016/03/12/science/12TB-reptile/12TB-reptile-articleLarge.jpg
-article: http://www.nature.com/articles/srep22817
+source:
+    name: Nature
+    url: http://www.nature.com/articles/srep22817
 comments: true
 ---
 
