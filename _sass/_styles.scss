@@ -778,6 +778,7 @@ footer {
   header.site-header hgroup h1 {
     margin-bottom: 0;
     font-size: $fsp;
+    z-index: 0;
   }
 
   header.site-header hgroup {
@@ -809,7 +810,6 @@ footer {
     display: none;
     padding-right: 7%;
     background-color: $black;
-    z-index: 2;
   }
 
   header.site-header nav:before {
