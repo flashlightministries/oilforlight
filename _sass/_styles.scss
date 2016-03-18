@@ -807,9 +807,8 @@ footer {
 
   header.site-header nav {
     display: none;
-    float: none;
-    width: 100%;
-    padding-right: 0;
+    padding-right: 7%;
+    background-color: $black;
   }
 
   header.site-header nav:before {
@@ -832,16 +831,17 @@ footer {
 
   header.site-header nav ul li a {
     display: block;
-    text-align: right;
+    text-align: left;
     font-weight: bold;
     padding: 15px 0px;
     padding-right: 7%;
+    padding-left: 25px;
     position: relative;
     width: 100%;
-    color: $black;
+    color: $white;
     &:active {
       background-color: $link;
-      color: white;
+      color: black;
     }
     &:hover {
         text-shadow: none;
