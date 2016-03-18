@@ -778,7 +778,6 @@ footer {
   header.site-header hgroup h1 {
     margin-bottom: 0;
     font-size: $fsp;
-    z-index: 0;
   }
 
   header.site-header hgroup {
@@ -793,7 +792,7 @@ footer {
     right: 7%;
     display: block;
     float: right;
-    width: 16px;
+    width: 14px;
     height: 16px;
     color: white;
     .icons {
