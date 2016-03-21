@@ -21,7 +21,7 @@ They call this creature Teyujagua paradoxa:
 
 These researchers pose a serious paradox indeed -- the findings of this paper go against the Book of Genesis, which clearly and simply describes how creation came about, told from the perspective of the only being who was there to witness it: God (Gen 1:1-2).
 
-Based on the Book of Genesis and the genealogies listed in 1 and 2 Chronicles, among other books of the Bible, we know that the universe is about 6,000 years old.  If the young age of the earth sounds preposterous to you, it's because you've been indoctrinated to believe in Materialism, a philosophy invented by men to deny God and thus avoid confronting their sin in light of his laws (Jn 3:19).
+Based on the Book of Genesis and the genealogies listed in 1 and 2 Chronicles, among other books of the Bible, we know that the universe is about 6,000 years old.  If the young age of the earth sounds preposterous to you, it's because you've been indoctrinated to believe in Materialism, a philosophy invented by men to deny God and thus avoid confronting their sin in light of His laws (Jn 3:19).
 
 The researchers who wrote this paper estimate that the skull they found is 250 million years old, 40,000 times older than creation.  How did these wise men estimate the age of the lizard dog to be so old?
 
@@ -43,9 +43,9 @@ They use the word "successful" to conform to their Darwinistic belief system, wh
 
 One researcher writes, "Teyujagua lived in a devastated world and was part of a ‘lucky’ branch of the tree of life that survived the greatest mass extinction of all time."
 
-The greatest mass extinction of all time occurred only a few thousand years ago with the flood, written about in the Bible (Gen 6-9).  Those who survived the devastation were aboard Noah's ark, and we're their blessed descendants.  The birds who also survived -- in the language of the paper discussed here, those sharing the dog-headed lizard's branch of the tree of life called Archosauriformes -- were not "lucky" to have survived, however, since luck plays no part in God's sovereign plan (Prv 16:33).  Luck is a fundamental part of materialist philosophy, not God's plan.  Instead of thanking luck, believers thank God that he saved us, and that he made a covenant with every living creature to never destroy the world again with water (Gen 9:8-17).
+The greatest mass extinction of all time occurred only a few thousand years ago with the flood, written about in the Bible (Gen 6-9).  Those who survived the devastation were aboard Noah's ark, and we're their blessed descendants.  The birds who also survived -- in the language of the paper discussed here, those sharing the dog-headed lizard's branch of the tree of life called Archosauriformes -- were not "lucky" to have survived, however, since luck plays no part in God's sovereign plan (Prv 16:33).  Luck is a fundamental part of materialist philosophy, not God's plan.  Instead of thanking luck, believers thank God that He saved us, and that He made a covenant with every living creature to never destroy the world again with water (Gen 9:8-17).
 
-With water, mind you.  In the end, he will instead destroy the world with fire (2Pe 2:10-13) and cast the wicked into the lake of fire with Satan (2Pe 3:7; Rev 20:10, 15).
+With water, mind you.  In the end, He will instead destroy the world with fire (2Pe 2:10-13) and cast the wicked into the lake of fire with Satan (2Pe 3:7; Rev 20:10, 15).
 
 That's the bad news.  The good news is that God's children in Jesus Christ will be saved (2Ti 4:18; 2Pe 3:9-13).  [Add more.]
 

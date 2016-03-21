@@ -25,7 +25,7 @@ Or do you not know that your body is a temple of the Holy Spirit within you, who
 
 Even him, whose coming is after the working of Satan with all power and signs and lying wonders, And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. And for this cause God shall send them strong delusion, that they should believe a lie: That they all might be damned who believed not the truth, but had pleasure in unrighteousness (2Th 2:9–12 KJV).
 
-The Washington Post is fascinated by Martine Rothblatt, the millionaire founder of Sirius XM.  Rothblatt has undergone elective sex reassignment surgery, a misnomer because only God assigns gender (Psa 139:13-16).  But more crucially, such an operation mocks God's sovereignty as creator and attempts to usurp his perfect creative powers (Gen 1:27; Exo 20:3-5; Prv 21:2; Mat 19:4).
+The Washington Post is fascinated by Martine Rothblatt, the millionaire founder of Sirius XM.  Rothblatt has undergone elective sex reassignment surgery, a misnomer because only God assigns gender (Psa 139:13-16).  But more crucially, such an operation mocks God's sovereignty as creator and attempts to usurp His perfect creative powers (Gen 1:27; Exo 20:3-5; Prv 21:2; Mat 19:4).
 
 Take notice of the word "cybercreator" in the WP headline.
 
