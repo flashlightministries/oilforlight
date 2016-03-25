@@ -13,6 +13,8 @@ comments: true
 
 > And since they did not see fit to acknowledge God, God gave them up to a debased mind to do what ought not to be done (Romans 1:28).
 
+# [This is a sample article]
+
 A woman shall not wear a man’s garment, nor shall a man put on a woman’s cloak, for whoever does these things is an abomination to the LORD your God (Dt 22:5).
 
 Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind (1Co 6:9 KJV).

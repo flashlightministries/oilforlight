@@ -13,6 +13,8 @@ comments: true
 
 > Now faith is the substance of things hoped for, the evidence of things not seen.  For by it the elders obtained a good report.  Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear (Hebrews 11:1-3 KJV).
 
+# [This is a sample article]
+
 A new paper published in Nature seems to speak with authority when it declares, "This skull represents a previously unknown species that is the sister taxon to Archosauriformes and which fills a major morphological gap in understanding of early archosauriform evolution."
 
 They call this creature Teyujagua paradoxa:
