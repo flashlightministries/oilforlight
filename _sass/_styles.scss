@@ -935,3 +935,9 @@ p.small {
 .marquee a:hover {
     color: $accent;
 }
+
+article span.date {
+    font-size: $fs5;
+    font-weight: bold;
+    color: $grey-medium;
+}
