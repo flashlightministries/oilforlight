@@ -21,4 +21,4 @@ Sexual abuse
 
 > If you love God, you will keep his commandments (John 14:15).
 
-[End with uplifting message]
+[End with message]
