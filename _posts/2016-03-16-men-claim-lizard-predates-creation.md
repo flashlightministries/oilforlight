@@ -21,7 +21,7 @@ They call this creature Teyujagua paradoxa:
 
 These researchers pose a serious paradox indeed -- the findings of this paper go against the Book of Genesis, which clearly and simply describes how creation came about, told from the perspective of the only being who was there to witness it: God (Gen 1:1-2).
 
-Based on the Book of Genesis and the genealogies listed in 1 and 2 Chronicles, among other books of the Bible, we know that the universe is about 6,000 years old.  If the young age of the earth sounds preposterous to you, it's because you've been indoctrinated to believe in Materialism, a philosophy invented by men to deny God and thus avoid confronting their sin in light of His laws (Jn 3:19).
+Based on the Book of Genesis and the genealogies listed in 1 and 2 Chronicles, among other books of the Bible, we know that the universe is about 6,000 years old.  If the young age of the earth sounds preposterous to some, it's because they've been indoctrinated to believe in materialism, a philosophy invented by men to deny God and thus avoid confronting their sin in light of His laws (Jn 3:19).
 
 The researchers who wrote this paper estimate that the skull they found is 250 million years old, 40,000 times older than creation.  How did these wise men estimate the age of the lizard dog to be so old?
 
