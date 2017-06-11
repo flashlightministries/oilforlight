@@ -1,2 +1,2 @@
-# biblenewsflash
-Bible News Flash
+# fallenworldnews
+Fallen World News
