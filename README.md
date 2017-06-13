@@ -1,2 +1,2 @@
-# fallenworldnews
-Fallen World News
+# stedfastnews
+Stedfast News
