@@ -13,7 +13,7 @@ comments: true
 
 > For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace.  For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, it cannot.  Those who are in the flesh cannot please God (Romans 8:6-8).
 
-# [This is a sample article]
+# [This is a placeholder article for beta testing]
 
 David and Bathsheba
 
