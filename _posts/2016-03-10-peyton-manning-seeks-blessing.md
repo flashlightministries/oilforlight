@@ -8,7 +8,7 @@ image:
 source:
     name: NFL
     url: http://www.nfl.com/news/story/0ap3000000641930/article/peyton-manning-announces-retirement-from-nfl
-comments: true
+comments: false
 ---
 
 > Not everyone who says to me, "Lord, Lord," will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven (Matthew 7:21).
