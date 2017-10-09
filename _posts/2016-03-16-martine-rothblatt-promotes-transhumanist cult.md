@@ -8,7 +8,7 @@ image:
 source:
     name: Washington Post
     url: https://www.washingtonpost.com/national/health-science/a-transgender-biotech-running-cybercreator-debates-artificial-intelligence/2016/03/07/6b2f1da4-e14e-11e5-846c-10191d1fc4ec_story.html
-comments: true
+comments: false
 ---
 
 > And since they did not see fit to acknowledge God, God gave them up to a debased mind to do what ought not to be done (Romans 1:28).
