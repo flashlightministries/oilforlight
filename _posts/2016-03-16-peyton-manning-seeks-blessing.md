@@ -13,7 +13,7 @@ comments: true
 
 > Not everyone who says to me, "Lord, Lord," will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven (Matthew 7:21).
 
-# [This is a sample article]
+# [This is a placeholder article for beta testing]
 
 Using HGH (cheating, breaking rules)
 
