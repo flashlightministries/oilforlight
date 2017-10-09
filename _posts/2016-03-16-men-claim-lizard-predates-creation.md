@@ -8,7 +8,7 @@ image:
 source:
     name: Nature
     url: http://www.nature.com/articles/srep22817
-comments: true
+comments: false
 ---
 
 > Now faith is the substance of things hoped for, the evidence of things not seen.  For by it the elders obtained a good report.  Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear (Hebrews 11:1-3 KJV).
