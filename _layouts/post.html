@@ -13,7 +13,9 @@
           <!-- <span class="author">By {{page.author}}</span> -->
           <span class="date">{{page.date | date: "%b %d, %Y" }}</span>
         </p>
-        <p class="small">Source: <a target="_blank" href="{{ page.source.url }}">{{ page.source.name }}</a></p>
+        {% if page.source %}
+          <p class="small">Source: <a target="_blank" href="{{ page.source.url }}">{{ page.source.name }}</a></p>
+        {% endif %}
 
         {% if page.image.feature %}
           {% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}
