@@ -941,3 +941,7 @@ article span.date {
     font-weight: bold;
     color: $grey-medium;
 }
+
+a:rtBibleRef em {
+    text-decoration: none;
+}
