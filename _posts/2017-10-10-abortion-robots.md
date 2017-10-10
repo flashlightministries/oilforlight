@@ -32,7 +32,10 @@ MacDonald regained his composure after taking a sip of water and patting sweat f
 
 MacDonald silently turned to Psalm 139.  "In this passage, David is speaking to God."  He read,
 
-> For thou hast possessed my reins: thou hast covered me in my mother’s womb. I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well. My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.  Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.
+> For thou hast possessed my reins:
+> thou hast covered me in my mother’s womb.
+> I will praise thee; for I am fearfully and wonderfully made:
+> marvellous are thy works; and that my soul knoweth right well. My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.  Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.
 
 MacDonald closed his Bible, and still looking down, he said, "Jesus Christ said in Matthew 19 to forbid not the little children, for of such is the kingdom of heaven."
 
@@ -42,4 +45,4 @@ UCLA Political Science professor Greg Brown addressed the issue from another per
 
 ### References
 
-Watch Neil DeGrasse Tyson register his support for robot gynecologists on [The View](https://youtu.be/k7U0jFNRnkI?t=457).
+Watch Neil DeGrasse Tyson register his support for robot gynecologists on [The View](https://youtu.be/k7U0jFNRnkI?t=457){:target="_blank"}.
