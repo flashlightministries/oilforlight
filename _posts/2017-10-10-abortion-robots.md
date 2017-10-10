@@ -62,4 +62,4 @@ UCLA Political Science professor Greg Brown addressed the issue from another per
 
 ### References
 
-Watch Neil DeGrasse Tyson register his support for robot gynecologists on [The View](https://youtu.be/k7U0jFNRnkI?t=457){:target="_blank"}.
+[Watch Neil DeGrasse Tyson](https://youtu.be/k7U0jFNRnkI?t=457){:target="_blank"} register his support for robot gynecologists on The View.
