@@ -54,7 +54,7 @@ MacDonald turned to Psalm 139.  "In this passage, David is speaking to God."  He
 
 > when as yet there was none of them.
 
-MacDonald closed his Bible, and still looking down, he said, "Jesus Christ said in Matthew 19 to forbid not the little children, for of such is the kingdom of heaven."
+MacDonald closed his Bible, and still looking down, he said, "Jesus Christ said in Matthew 19:14 to forbid not the little children, for of such is the kingdom of heaven."
 
 After a pause, he began to pray.  "Dear Lord, I pray that you intervene to put a stop to this madness.  Please forgive those who murder your children out of ignorance and self-interest.  Change their minds to appreciate the sanctity of all life you have given us, and change their hearts to love you above all things with all their heart, soul, mind and strength.  Put in us your Spirit, Lord, to guide us in bringing this change through your perfect wisdom, and that not of our own, and give us the words to teach the truth in love, humility and patience. Amen."
 
