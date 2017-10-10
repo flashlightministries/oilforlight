@@ -22,7 +22,7 @@ The scientific community seems to support this technology trend.  When asked abo
 
 But support for abortion robots is far from unanimous.
 
-Pro-life groups have unified to voice their strong objections to abortion robots, releasing a collective statement to the media that begins, "We unanimously reject the practice of human abortion, and we stand firmly against the practice of murder whether in the womb or in the world, whether committed at the hands of human beings or in the grips of robotic ones."
+Pro-life groups have unified to voice their strong objections to abortion robots, releasing a collective statement to the media that begins, "We unanimously reject the practice of human abortion, and we stand firmly against the practice of murder whether in the womb or in the world, whether committed at the hands of human beings or in the grips of robotic arms."
 
 When asked about the prospect of abortion robots, Pastor Jonathan MacDonald of Grace Baptist Church in Sacramento reacted with incredulity.  "I don't know if we've gone completely insane as a country or if I'm losing my own mind.  Is that really true?  Abortion robots?"
 
