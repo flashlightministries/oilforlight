@@ -4,7 +4,7 @@ author: T. C. Howitt
 title: Abortion robot stirring up controversy
 passage: Psalm 139:13-16
 image:
-    feature: articles/2017-10-10-abortion-robots/robot-surgeon.png
+    feature: articles/2017-10-10-abortion-robots/robot-surgeon.jpg
 comments: false
 ---
 
