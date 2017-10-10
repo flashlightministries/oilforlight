@@ -10,11 +10,11 @@ comments: false
 
 The targeting of abortion clinics by pro-life activists has raised concerns for the safety of their staff, creating the demand for a new robotic solution to terminate pregnancies without the need for human intervention.  Los Angeles-based biotech firm Final Solution Automation (Nasdaq: FSAU) is spearheading this new twist on an ancient industry by introducing automated abortion facilities throughout California.
 
-"We don't like to use the term 'abortion'," says their CEO Margaret Singer, "because of its divisive history.  We prefer to call it 'cell cluster evacuation'.  Our lab technicians have nicknamed the robot Dolly."
+"We don't like to use the term 'abortion'," says the company's CEO Margaret Singer, "because of its divisive history.  We prefer to call it 'cell cluster evacuation'.  Our lab technicians have nicknamed the robot Dolly."
 
 Singer says the rollout of their cell cluster evacuation units will focus first on college campuses, explaining that "the younger generation gets it.  These people spend most of their lives plugged into their phones, sifting through social media and zoning out to music.  According to our research, they would rather not deal with other humans in a stuffy clinic when a machine could take care of their most sensitive and intimate needs in a clean and efficient manner."
 
-Brian, an undergraduate Philosophy major at UC Berkeley who requested to identify himself by first name only, confirmed FSA's findings.  "I think it's great.  The choice to have an abortion is a matter that should be left up to the mother, and the mother alone.  I don't like the idea of some rich white male doctor even being involved in that process."
+Brian, an undergraduate Philosophy major at UC Berkeley who requested to identify himself by first name only, confirmed those findings.  "I think it's great.  The choice to have an abortion is a matter that should be left up to the mother, and the mother alone.  I don't like the idea of some rich white male doctor even being involved in that process."
 
 Singer says her company is also in negotiations with a very large retailer to provide in-store solutions.  "It makes sense to locate our services in the communities where family management is lacking and cost savings matter most, and this retailer already has a physical presence and reputation for convenience among these people groups."
 
