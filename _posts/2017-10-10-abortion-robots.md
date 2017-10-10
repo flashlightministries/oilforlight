@@ -30,7 +30,7 @@ MacDonald regained his composure after taking a sip of water and patting sweat f
 
 "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse: because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened."
 
-MacDonald silently turned to Psalm 139.  "In this passage, David is speaking to God."  He read,
+MacDonald turned to Psalm 139.  "In this passage, David is speaking to God."  He read,
 
 > For thou hast possessed my reins:
 
@@ -43,6 +43,7 @@ MacDonald silently turned to Psalm 139.  "In this passage, David is speaking to 
 > and that my soul knoweth right well.
 
 > My substance was not hid from thee, when I was made in secret,
+
 > and curiously wrought in the lowest parts of the earth.
 
 > Thine eyes did see my substance, yet being unperfect;
