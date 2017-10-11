@@ -12,7 +12,7 @@ The targeting of abortion clinics by pro-life activists has raised concerns over
 
 "We don't like to use the term 'abortion'," says the company's CEO Margaret Singer, "because of its divisive history.  We prefer to call it 'cell cluster evacuation'."
 
-Singer says the rollout of their cell cluster evacuation units will focus first on college campuses, explaining that "the younger generation gets it.  These people spend most of their lives plugged into their phones, sifting through social media and zoning out to music.  According to our research, young mothers in need of this operation would rather not deal with other humans in a stuffy clinic when a machine could take care of their most sensitive and intimate needs in a clean and efficient manner."
+Singer says the rollout of their cell cluster evacuation booths will focus first on college campuses, explaining that "the younger generation gets it.  These people spend most of their lives plugged into their phones, sifting through social media and zoning out to music.  According to our research, young mothers in need of undergoing this procedure would rather not deal with other humans in a stuffy clinic environment when a machine could take care of their most sensitive and intimate needs in a clean and efficient manner."
 
 "Our lab technicians have nicknamed the robot Dolly," she added.
 
