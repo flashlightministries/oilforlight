@@ -8,4 +8,6 @@ image:
 comments: false
 ---
 
-# [This is an article in progress]
+"You want marriage till death do you part, you got it," inveighed one congressional staffer to the protestors gathered around the capitol building.
+
+# [This article is a work in progress]
