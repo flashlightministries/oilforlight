@@ -18,13 +18,11 @@
         {% endif %}
 
         {% if page.image.feature %}
-          <div class="featured-image">
-            {% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}
-            <image src="{{ page.image.feature }}"></image>
-            {% else %}
-            <image src="{{ site.url }}/images/{{ page.image.feature }}"></image>
-            {% endif %}
-          </div>
+          {% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}
+          <image class="featured-image" src="{{ page.image.feature }}"></image>
+          {% else %}
+          <image class="featured-image" src="{{ site.url }}/images/{{ page.image.feature }}"></image>
+          {% endif %}
         {% endif %}
 
       </hgroup>
