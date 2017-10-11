@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T. C. Howitt
-title: Kneeling before the cross seen as disrespectful to God
+title: Kneeling before cross seen as disrespectful to God
 passage: Romans 14:11
 image:
     feature: articles/2017-10-11-trump-tweets-kneeling/trump-tweet-kneel.jpg
