@@ -4,7 +4,7 @@ author: T. C. Howitt
 title: Kneeling before cross seen as disrespectful to God
 passage: Romans 14:11
 image:
-    feature: articles/2017-10-11-trump-tweets-kneeling/trump-tweet-kneel.jpg
+    feature: articles/2017-10-11-trump-tweets-kneeling/trump-tweet-kneel.png
 comments: false
 ---
 
@@ -14,4 +14,4 @@ In the wake of President Trump's tweet suggesting that NFL players ought to be s
 
 "Real Christians won't put up with disrespecting our Lord and Saver [sic]," he continued.  "These are people who demand respect for the cross!"
 
-Later in the evening, Trump tweeted hashtag #StandForOurLord.
+Later in the evening, Trump tweeted hashtag #StandUpForJesus.
