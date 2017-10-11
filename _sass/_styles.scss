@@ -317,6 +317,8 @@ header.site-header nav {
     .featured-image {
         width: auto;
         max-height: 450px;
+        overflow: hidden;
+        position: relative;
     }
 
     // Header Stuff
