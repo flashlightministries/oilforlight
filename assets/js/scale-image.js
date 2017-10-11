@@ -1,4 +1,5 @@
-
+function ScaleImage(srcwidth, srcheight, targetwidth, targetheight, fLetterBox) {
+    
     var result = { width: 0, height: 0, fScaleToTargetWidth: true };
 
     if ((srcwidth <= 0) || (srcheight <= 0) || (targetwidth <= 0) || (targetheight <= 0)) {
