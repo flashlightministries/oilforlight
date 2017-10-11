@@ -8,7 +8,7 @@ image:
 comments: false
 ---
 
-The targeting of abortion clinics by pro-life activists has raised concerns for the safety of their staff, creating the demand for a new robotic solution to terminate pregnancies without the need for human intervention.  Los Angeles-based biotech firm Final Solution Automation (Nasdaq: FSAU) is spearheading this new twist on an ancient industry by introducing automated abortion facilities throughout California.
+The targeting of abortion clinics by pro-life activists has raised concerns for the safety of their staff, creating demand for a way to terminate pregnancies without the need for human intervention.  Los Angeles-based biotech firm Final Solution Automation (Nasdaq: FSAU) is spearheading this new twist on an ancient industry by introducing automated abortion facilities throughout California.
 
 "We don't like to use the term 'abortion'," says the company's CEO Margaret Singer, "because of its divisive history.  We prefer to call it 'cell cluster evacuation'.  Our lab technicians have nicknamed the robot Dolly."
 
