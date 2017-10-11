@@ -8,6 +8,8 @@ image:
 comments: false
 ---
 
-"You want marriage till death do you part, you got it," inveighed one congressional staffer to the protestors gathered outside the capitol building shortly after the vote.
+MONTGOMERY, AL - "You want marriage till death do you part, you got it," inveighed one congressional staffer to the protestors gathered outside the capitol building shortly after the vote.
+
+Among the crowd of booing gay couples were Jose and Harold Gomez-Jefferson, who were married one week prior in the courthouse across the street.
 
 # [This article is a work in progress]
