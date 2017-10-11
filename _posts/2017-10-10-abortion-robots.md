@@ -10,9 +10,11 @@ comments: false
 
 The targeting of abortion clinics by pro-life activists has raised concerns over the safety of clinic staff, creating demand for a way to robotically terminate pregnancies without human intervention.  Los Angeles-based biotech firm Final Solution Automation (Nasdaq: FSAU) is spearheading this new twist on an ancient industry by introducing automated abortion facilities throughout California.
 
-"We don't like to use the term 'abortion'," says the company's CEO Margaret Singer, "because of its divisive history.  We prefer to call it 'cell cluster evacuation'.  Our lab technicians have nicknamed the robot Dolly."
+"We don't like to use the term 'abortion'," says the company's CEO Margaret Singer, "because of its divisive history.  We prefer to call it 'cell cluster evacuation'."
 
 Singer says the rollout of their cell cluster evacuation units will focus first on college campuses, explaining that "the younger generation gets it.  These people spend most of their lives plugged into their phones, sifting through social media and zoning out to music.  According to our research, young mothers in need of this operation would rather not deal with other humans in a stuffy clinic when a machine could take care of their most sensitive and intimate needs in a clean and efficient manner."
+
+"Our lab technicians have nicknamed the robot Dolly," she added.
 
 Brian, an undergraduate Philosophy major at UC Berkeley who requested to identify himself by first name only, confirmed those findings.  "I think it's great.  The choice to have an abortion is a matter that should be left up to the mother, and the mother alone.  I don't like the idea of some rich white male doctor even being involved in that process."
 
