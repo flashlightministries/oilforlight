@@ -18,7 +18,7 @@ Singer says the rollout of their cell cluster evacuation booths will focus first
 
 Brian, an undergraduate Philosophy major at UC Berkeley who requested to identify himself by first name only, confirmed those findings.  "I think it's great.  The choice to have an abortion is a matter that should be left up to the mother, and the mother alone.  I don't like the idea of some rich white male doctor even being involved in that process."
 
-Singer says her company is also in negotiations with a very large retailer to provide in-store solutions.  "It makes sense to locate our services in the communities where family management is lacking and cost savings matter most, and this retailer already has a physical presence and reputation for convenience among these people groups."
+Singer says her company is also in negotiations with a very large retailer to provide in-store solutions.  "It makes sense to locate our services in the communities where family planning is lacking and cost savings matter most, and this retailer already has a physical presence and reputation for convenience among these people groups."
 
 The scientific community seems to support this technology trend.  When asked about robot gynecologists performing surgery, Neil deGrasse Tyson confidently declared, "Go for it."
 
