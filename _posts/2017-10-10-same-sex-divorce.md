@@ -8,6 +8,6 @@ image:
 comments: false
 ---
 
-"You want marriage till death do you part, you got it," inveighed one congressional staffer to the protestors gathered around the capitol building.
+"You want marriage till death do you part, you got it," inveighed one congressional staffer to the protestors gathered around the capitol building shortly after the vote.
 
 # [This article is a work in progress]
