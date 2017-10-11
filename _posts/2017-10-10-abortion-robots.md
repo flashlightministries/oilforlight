@@ -20,7 +20,7 @@ Brian, an undergraduate Philosophy major at UC Berkeley who asked to be identifi
 
 Singer says her company is also in negotiations with a very large retailer to provide in-store solutions.  "It makes sense to locate our services in the communities where family planning is lacking and cost savings matter most, and this retailer already has a physical presence and reputation for convenience among these people groups."
 
-The scientific community seems to support this technology trend.  When asked about robot gynecologists performing surgery, Neil deGrasse Tyson confidently declared, "Go for it."
+The scientific community seems to support this technology trend.  When asked about robot gynecologists performing surgery, celebrity astrophysicist Neil deGrasse Tyson confidently declared, "Go for it."
 
 But support for abortion robots is far from unanimous.
 
