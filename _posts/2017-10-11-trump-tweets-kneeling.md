@@ -10,7 +10,7 @@ comments: false
 
 In the wake of President Trump's tweet suggesting that NFL players ought to be sacked for kneeling during the national anthem, he's moved on to criticize some Christians for kneeling before the cross.
 
-"I went to a church and saw many people shake their heads as fake Christians walked to the front to kneel and pray.  Sad!" began Trump's series of tweets.
+"I went to a church and saw many people walk to the front to kneel and pray.  Sad!" began Trump's series of tweets.
 
 "Real Christians won't put up with disrespecting our Lord and Saver [sic]," he continued.  "These are people who demand respect for the cross!"
 
