@@ -22,9 +22,6 @@ function ScaleImage(srcwidth, srcheight, targetwidth, targetheight, fLetterBox) 
     else {
        fScaleOnWidth = !fLetterBox;
     }
-    
-    // Override the preceding logic
-    fScaleOnWidth = fLetterBox;
 
     if (fScaleOnWidth) {
         result.width = Math.floor(scaleX1);
