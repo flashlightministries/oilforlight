@@ -843,10 +843,6 @@ footer {
     .marquee {
       -webkit-text-size-adjust: none;
     }
-  
-    .article .featured-image {
-      max-height: 150px;
-    }
 }
 
 @media only screen and (max-width: 500px) {
@@ -877,6 +873,10 @@ footer {
     .marquee {
       -webkit-text-size-adjust: none;
     }
+  
+    .article .featured-image {
+      max-height: 150px;
+    }  
 }
 
 
