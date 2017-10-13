@@ -733,36 +733,6 @@ footer {
 /* Mobile
    ========================================================================== */
 
-@media only screen and (max-width: 500px) {
-    footer {
-
-        .social {
-            display: none;
-        }
-
-        aside {
-            width: 90%;
-            margin: 0 auto;
-        }
-
-        .prev-posts {
-            @include column(9);
-            padding-left: 0;
-            float: none;
-            margin: 0 auto;
-            display: block;
-            li {
-                margin-top: $lh/2;
-            }
-        }
-
-    }
-
-    .marquee {
-      -webkit-text-size-adjust: none;
-    }
-}
-
 @media only screen and (max-width : 680px) {
 
  /* All Posts */
@@ -868,6 +838,40 @@ footer {
             color: $white;
             background-color: $link;
         }
+    }
+
+    .marquee {
+      -webkit-text-size-adjust: none;
+    }
+  
+    .article .featured-image {
+      max-height: 150px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    footer {
+
+        .social {
+            display: none;
+        }
+
+        aside {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        .prev-posts {
+            @include column(9);
+            padding-left: 0;
+            float: none;
+            margin: 0 auto;
+            display: block;
+            li {
+                margin-top: $lh/2;
+            }
+        }
+
     }
 
     .marquee {
