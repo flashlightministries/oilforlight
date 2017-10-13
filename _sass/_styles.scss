@@ -882,6 +882,10 @@ footer {
     margin: 0 auto;
     float: none;
 }
+  
+.featured-image {
+    max-height: 300px;
+}
 
 footer {
     font-size: $fs5;
