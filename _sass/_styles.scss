@@ -720,6 +720,10 @@ footer {
             right: 10vw;
         }
     }
+  
+  .featured-image {
+    max-height: 300px;
+}
 
     .marquee {
       -webkit-text-size-adjust: none;
@@ -881,10 +885,6 @@ footer {
     display: block;
     margin: 0 auto;
     float: none;
-}
-  
-.featured-image {
-    max-height: 300px;
 }
 
 footer {
