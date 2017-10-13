@@ -724,6 +724,11 @@ footer {
     .marquee {
       -webkit-text-size-adjust: none;
     }
+  
+    .article.featured-image {
+      max-height: 300px;
+    }
+}
 
 }
 
