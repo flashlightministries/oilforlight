@@ -6,7 +6,6 @@
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 
-
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% if page.passage %} [{{ page.passage }}]{% endif %} &#8211; {% endif %}{{ site.title }}">
 <meta property="og:image" content="{% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}{{ page.image.feature }}{% else %}{{ site.url }}/images/{{ page.image.feature }}{% endif %}">
@@ -29,8 +28,6 @@
 <!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
 <link rel='stylesheet' href='{{ site.url }}/assets/cal.css' media='all' />
 -->
-
-
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.url }}/assets/css/i.css">
