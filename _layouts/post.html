@@ -30,6 +30,8 @@
 
     {{ content }}
     
+  <hr>
+    
   <div class="post-sharing">
     <span><a target="_blank" href="http://twitter.com/intent/tweet?status={{ page.title | uri_escape }}+{{ site.url }}{{ page.url }}">
       <span class="fa-stack fa-lg">
@@ -49,8 +51,6 @@
         <i class="fa fa-envelope fa-stack-1x"></i>
       </span>      
     </a></span>
-      </span>      
-
   </div>
 
   {% include JB/comments %}
