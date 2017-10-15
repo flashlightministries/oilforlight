@@ -10,7 +10,7 @@ comments: false
 
 MONTGOMERY, AL - Alabama has banned same-sex divorce, inflaming the debate over same-sex marriage only two years after the U.S. Supreme Court ruled on Obergefell v. Hodges to legalize it.
 
-HB 5439, titled "An Act to Protect Same-Sex Marriage," begins, ""With the recognition of same-sex marriage, it is incumbent upon the state of Alabama to enforce that law according to its legal, historical and traditional definition.  Seeing that same-sex marriage is defined as the union between two men or two women for life, this state government shall not allow for same-sex divorce."
+HB 5439, titled "An Act to Protect Same-Sex Marriage," begins, ""With the recognition of same-sex marriage, it is incumbent upon the state of Alabama to enforce that law according to the legal, historical and traditional definition of marriage.  Seeing that same-sex marriage is defined as the union between two men or two women for life, this state government shall not allow for same-sex divorce."
 
 "You want marriage till death do you part, you got it," inveighed one congressional staffer to the protesters gathered outside the capitol building shortly after the governor signed the bill into law.
 
