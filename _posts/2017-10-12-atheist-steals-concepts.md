@@ -48,4 +48,4 @@ Hu called up Genesis 3:5.  "Here's what the serpent said: 'For God doth know tha
 
 "As long as you deny God, you have no right to use these concepts of objective moral truth. Please, Jason, return them back to where they belong, with God and the Bible."
 
-The two men stared at each other in silence, then agreed to resume their game of Mario Kart, already in progress.
+The two men stared at each other in silence, then agreed to return to their game of Mario Kart, already in progress.
