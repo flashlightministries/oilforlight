@@ -4,7 +4,7 @@ author: T. C. Howitt
 title: Target stores announce transhumanist bathroom policy
 passage: John 3:36
 image:
-    feature: articles/2017-10-14-tranhumanist-bathroom/transhumanist-bathroom.png
+    feature: articles/2017-10-14-transhumanist-bathroom/transhumanist-bathroom.png
 comments: false
 ---
 
