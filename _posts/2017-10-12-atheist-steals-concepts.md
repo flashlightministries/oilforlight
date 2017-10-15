@@ -24,17 +24,17 @@ Montgomery crossed his arms and shook his head, saying tersely, "No I haven't."
 
 "What's so evil about killing and eating people?"
 
-Montgomery hardly paused before answering.  "Because it's not good for the survival and propagation of our species.  Our selfish genes want to multiply, so any behavior that would lead to our extinction is evil."
+Montgomery blinked in confusion, then answered, "Because it's not good for the survival and propagation of our species.  Our selfish genes want to multiply, so any behavior that would lead to our extinction is evil."
 
 Hu responded, "Using your subjective measure, one could argue that a starving person killing and eating a weak and undesirable person is a net positive for propagating the species -- this is the logic of eugenics, and even abortion when you think about it."
 
 "Oh, please.  Abortion?"
 
-"Abortion.  This is where we get into the objective moral standard of God versus the relativism of man's philosophy.  Without God, you have no grounds for positing good and evil.  With your atheist worldview, you can embrace subjective concepts like whether something is efficacious or deleterious for survival, which is an arbitrary moral calculus of convenience, but you can't make sense of the objective spiritual concepts like good and evil that you get as an image-bearer of God."
+"Abortion.  This is where we get into the objective moral standard of God versus the relativism of man's philosophy.  Without God, you have no grounds for positing good and evil.  With your atheist worldview, you can embrace subjective concepts like whether something is efficacious or deleterious for survival, which is an arbitrary calculus, but you can't make sense of the objective spiritual concepts like good and evil that you already know as an image-bearer of God."
 
 "Don't tell me what concepts I can and can't have.  I can have whatever concepts I want."
 
-Hu picked up his phone, pressed a button and said, "Genesis 2:17."  He tapped the screen and read, "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
+Hu picked up his phone and said, "Genesis 2:17."  He tapped the screen and read, "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
 
 Montgomery snickered.  "You think I care about what that stupid book says?"
 
