@@ -14,23 +14,23 @@ The friendship between atheist Jason Montgomery and his best friend Victor Hu, a
 
 Montgomery crossed his arms and shook his head, saying tersely, "No I haven't."
 
-"I have a question for you, then," Hu said.  "Do you think Charles Manson is evil?"
+"I have a question for you, then," Hu said.  "Do you think Jeffrey Dahmer was evil?"
 
 "Yes."
 
 "Why?"
 
-"Because he killed a bunch of people."
+"Because he killed and ate people."
 
-"No, Manson didn't kill any--"
-
-"I mean he started a cult and had his followers kill people."
-
-"Okay, so why is murdering people evil?"
+"What's so evil about killing and eating people?"
 
 Montgomery hardly paused before answering.  "Because it's not good for the survival and propagation of our species.  Our selfish genes want to multiply, so any behavior that would lead to our extinction is evil."
 
-Hu responded, "Without God, you have no grounds for positing good and evil.  You can have cold, factual judgments like whether something is efficacious or deleterious for survival, but not spiritual concepts like good and evil."
+Hu responded, "Using your subjective measure, one could argue that a starving person killing and eating a weak and undesirable person is a net positive for propagating the species -- this is the logic of eugenics, and even abortion when you think about it."
+
+"Oh, please.  Abortion?"
+
+"Abortion.  This is where we get into the objective moral standard of God versus the relativism of man's philosophy.  Without God, you have no grounds for positing good and evil.  With your atheist worldview, you can embrace subjective concepts like whether something is efficacious or deleterious for survival, which is an arbitrary moral calculus of convenience, but you can't make sense of the objective spiritual concepts like good and evil that you get as an image-bearer of God."
 
 "Don't tell me what concepts I can and can't have.  I can have whatever concepts I want."
 
@@ -46,6 +46,6 @@ Hu called up Genesis 3:5.  "Here's what the serpent said: 'For God doth know tha
 
 "Everything in that Bible is a lie, man."
 
-"Please, Jason, return these concepts of good and evil to God and the Bible, where they belong."
+"As long as you deny God, you have no right to use these concepts of objective moral truth. Please, Jason, return them back to where they belong, with God and the Bible."
 
 The two men stared at each other in silence, then agreed to resume their game of Mario Kart, already in progress.
