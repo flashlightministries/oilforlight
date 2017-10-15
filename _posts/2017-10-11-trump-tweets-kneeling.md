@@ -15,3 +15,5 @@ In the wake of President Trump's tweet suggesting that NFL players ought to be s
 "Real Christians won't put up with disrespecting our Lord and Saver [sic]," he continued.  "These are people who demand respect for the cross!"
 
 Later in the evening, Trump tweeted hashtag #StandUpForJesus.
+
+In response, one Twitter user wrote, "#EveryKneeShallBow (Romans 14:11)."
