@@ -24,13 +24,13 @@ Montgomery crossed his arms and shook his head, saying tersely, "No I haven't."
 
 "What's so evil about killing and eating people?"
 
-Montgomery blinked in confusion, then answered, "Because it's not good for the survival and propagation of our species.  Our selfish genes want to multiply, so any behavior that would lead to our extinction is evil."
+Montgomery blinked in astonishment, then finally answered.  "Because it's not good for the survival and propagation of our species.  Our selfish genes want to multiply, so any behavior that would lead to our extinction is evil."
 
 Hu responded, "Using your subjective measure, one could argue that a starving person killing and eating a weak and undesirable person is a net positive for propagating the species -- this is the logic of eugenics, and even abortion when you think about it."
 
 "Oh, please.  Abortion?"
 
-"Abortion.  This is where we get into the objective moral standard of God versus the relativism of man's philosophy.  Without God, you have no grounds for positing good and evil.  With your atheist worldview, you can embrace subjective concepts like whether something is efficacious or deleterious for survival, which is an arbitrary calculus, but you can't make sense of the objective spiritual concepts like good and evil that you already know as an image-bearer of God."
+"Abortion.  This is where we get into the objective moral standard of God versus the relativism of man's philosophy.  Without God, you have no grounds for positing good and evil.  With your atheist worldview, you can embrace subjective concepts like whether something is efficacious or deleterious for survival, which is an arbitrary calculus based on an assumption about what our genes want, but you can't make sense of the objective spiritual concepts like good and evil that you already know as an image-bearer of God."
 
 "Don't tell me what concepts I can and can't have.  I can have whatever concepts I want."
 
