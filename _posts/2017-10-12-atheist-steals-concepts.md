@@ -8,7 +8,7 @@ image:
 comments: false
 ---
 
-The friendship between atheist Jason Montgomery and his best friend Victor Hu, a Christian, was strained to the breaking point last week after Montgomery refused to return the concepts he had stolen to construct his godless worldview.
+The friendship between atheist Jason Montgomery and his best friend Victor Hu, a Christian, was strained to the breaking point last week after Montgomery refused to return the concepts he had stolen from Christianity to construct his godless worldview.
 
 "Dude, just admit it," implored Hu, clearly exasperated.  "You say you don't believe in God, but you've based your whole worldview on ideas put forth in the Bible."
 
