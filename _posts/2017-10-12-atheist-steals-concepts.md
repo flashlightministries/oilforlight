@@ -14,7 +14,7 @@ The friendship between atheist Jason Montgomery and his best friend Victor Hu, a
 
 Montgomery crossed his arms and shook his head, saying tersely, "No I haven't."
 
-"I have a question for you, then," said Hu.  "Do you think Charles Manson is evil?"
+"I have a question for you, then," Hu said.  "Do you think Charles Manson is evil?"
 
 "Yes."
 
@@ -42,10 +42,10 @@ Montgomery snickered.  "You think I care about what that stupid book says?"
 
 "No, and I don't care."
 
-Hu said, "Genesis 3:5," tapped his screen and said, "Here's what the serpent said: 'For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.'  You see, that's truth mixed with a big lie."
+Hu called up Genesis 3:5.  "Here's what the serpent said: 'For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.'  You see, that's truth mixed with a big lie."
 
 "Everything in that Bible is a lie, man."
 
-"Please, Jason, return these concepts to God and the Bible, where they belong."
+"Please, Jason, return these concepts of good and evil to God and the Bible, where they belong."
 
 The two men stared at each other in silence, then mutually decided to resume their game of Mario Kart, already in progress.
