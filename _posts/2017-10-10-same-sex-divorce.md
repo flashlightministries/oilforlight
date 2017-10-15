@@ -15,3 +15,5 @@ HB 5439, titled "An act to protect same-sex marriage," begins, ""With the recogn
 "You want marriage till death do you part, you got it," inveighed one congressional staffer to the protesters gathered outside the capitol building shortly after the governor signed the bill into law.
 
 Fronting the throng of booing protestors were Jose and Harold Gomez-Jefferson, a couple married one week prior in the courthouse across the street.  According to Jose, he and Harold were no longer on speaking terms after Harold brought home two Starbucks barristas and a stockbroker to cook tapas, play Cards Against Humanity and soak in their hottub.  "Harry didn't even call me to come home.  It's just not fair that I now need to spend the rest of my life with this jerk," said Jose, referring to his estranged husband who was nearby chanting "Freedom Now!" along with the crowd while pumping his fist in the air.
+
+In a press briefing given by House majority leader Jack Harper (R), when asked why they banned divorce for same-sex marriages but not all marriages, his response was simple: "A bill banning all divorce wouldn't fly."
