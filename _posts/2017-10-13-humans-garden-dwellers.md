@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T. C. Howitt
-title: Scientists discover humans were garden-dwellers
+title: Scientists discover first humans were garden-dwellers
 passage: Genesis 2:8
 image:
     feature: articles/2017-10-13-humans-garden-dwellers/rubens.jpg
