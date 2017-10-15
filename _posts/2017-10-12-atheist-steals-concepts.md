@@ -48,4 +48,4 @@ Hu called up Genesis 3:5.  "Here's what the serpent said: 'For God doth know tha
 
 "Please, Jason, return these concepts of good and evil to God and the Bible, where they belong."
 
-The two men stared at each other in silence, then mutually decided to resume their game of Mario Kart, already in progress.
+The two men stared at each other in silence, then agreed to resume their game of Mario Kart, already in progress.
