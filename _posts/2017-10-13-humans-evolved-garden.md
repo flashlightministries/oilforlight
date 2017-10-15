@@ -1,10 +1,10 @@
 ---
 layout: post
 author: T. C. Howitt
-title: Scientists discover that humans evolved from garden-dwellers
+title: Scientists discover humans were garden-dwellers
 passage: Genesis 2:8
 image:
-    feature: articles/2017-10-13-humans-evolved-garden/rubens.jpg
+    feature: articles/2017-10-13-humans-garden-dwellers/rubens.jpg
 comments: false
 ---
 
