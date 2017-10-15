@@ -18,4 +18,4 @@ Fronting the throng of booing protestors were Jose and Harold Gomez-Jefferson, a
 
 A group of Christians cheered nearby, some of them holding placards saying, "'I hate divorce.' - Love, God (Mal. 2:16)."
 
-In a press briefing given by House majority leader Jack Harper (R), when asked why they banned divorce for same-sex marriages but not all marriages, he said, "A bill banning all divorce wouldn't fly, but at least this gets closer to the mark."
+In a press briefing given by House majority leader Jack Harper (R), when asked why they banned divorce for same-sex marriages but not all marriages, he said, "A bill banning all divorce wouldn't fly, but at least this gets us closer to the mark."
