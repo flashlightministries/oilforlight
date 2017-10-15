@@ -12,7 +12,7 @@ A press release from Target states, "We're pleased to extend equal bathroom righ
 
 Transhumanists believe that, as technological advancement progresses at an exponential rate, soon humans will be able to upload their consciousness into a universal information system and eliminate their defect-ridden flesh-suits, thus achieving immortality.  In the meantime, some of them augment their bodies with various accessories.
 
-"This is a huge win for transhumanist rights," said an individual known as Vog Tetradyne, who describes himself as a "mechanized man," able to transform into four different forms for fighting, flying, running and working as a sandwich artist at Subway.  "The singularity is near!" he screamed in excitement.
+"This is a huge win for transhumanist rights," said an individual known as Vog Tetradyne, who describes himself as a "mechanized man," able to transform into four different forms for fighting, flying, running and working as a sandwich artist at Subway.  "The singularity is near!" he screamed from behind his aluminum headgear arrayed with blinking lights.
 
 A spokesperson for a conservative Christian ministry that is boycotting Target over its transgender bathroom policy declined to comment at length, saying that "some people should seek counseling" and recommending that they read John 3:36:
 
