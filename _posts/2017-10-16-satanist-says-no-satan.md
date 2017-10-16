@@ -18,7 +18,7 @@ Reese explained, "We like to have fun while we teach kids about critical reasoni
 
 Anton LaVey, the founder of the Church of Satan, once described satanism as "a secular philosophy of rationalism and self-preservation (natural law, animal state), giftwrapping these ideas in religious trappings to add to their appeal."
 
-Reese agreed with that statement.  "It's not so much what we stand for as much as what we stand against -- the cruel lies of Christianity," he said.
+Reese agreed with that statement.  "It's not so much what we stand for as much as what we stand against -- the twisted teachings of Christianity," he said.
 
 When asked if the term "satanist" was a bit misleading, since they don't believe in Satan, and perhaps "antichrist" would more accurately describe his group, Reese responded, "I'm deeply offended that you would call me or anyone I love an antichrist.  We're good people.  I see now that you're just a bunch of religious whack-jobs.  You know what?  I'm not going to put up with your name-calling," and walked out of the interview.
 
