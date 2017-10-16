@@ -4,7 +4,7 @@ author: T. C. Howitt
 title: Satanist says Satan does not exist
 passage: John 8:44
 image:
-    feature: articles/2010-10-16-satanist-says-no-satan/baphomet.jpg
+    feature: articles/2017-10-16-satanist-says-no-satan/baphomet.jpg
 comments: false
 ---
 
