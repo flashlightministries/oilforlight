@@ -4,7 +4,7 @@ author: T. C. Howitt
 title: Fans upset, shocked that producer of films glamorizing sex, violence, drugs actually assaults women
 passage: Matthew 7:16-20
 image:
-    feature: articles/2017-10-15-weinstein-fans-surprised/rotten-lemon.jpg
+    feature: articles/2017-10-15-weinstein-fans-surprised/rotten-pear.jpg
 comments: false
 ---
 
