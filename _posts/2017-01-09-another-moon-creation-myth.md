@@ -2,7 +2,7 @@
 layout: post
 author: T.C. Howitt
 title: Another moon-creation myth
-passage: 
+passage: Genesis 1:16
 source:
     name: Space.com
     url: https://www.space.com/35258-earth-moon-formed-in-moonlet-mashup.html
