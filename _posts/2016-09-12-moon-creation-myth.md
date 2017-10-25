@@ -6,6 +6,7 @@ passage: 1 Timothy 6:20
 source:
     name: The Verge
     url: https://www.theverge.com/2016/9/12/12879766/moon-planetary-collision-theory-earth-impact
+    headline: "The planetary collision that formed the Moon may have been way more violent than we thought"
 image:
     feature: articles/2016-09-12-moon-creation-myth/teia-terra.jpg
 comments: false
