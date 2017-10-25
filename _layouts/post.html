@@ -13,9 +13,6 @@
           <!-- <span class="author">By {{page.author}}</span> -->
           <span class="date">{{page.date | date: "%b %d, %Y" }}</span>
         </p>
-        {% if page.source %}
-          <p class="small">Article from <a target="_blank" href="{{ page.source.url }}">{{ page.source.name }}</a>{% if page.source.headline %}: "{{ page.source.headline }}" {% endif %}</p>
-        {% endif %}
 
         {% if page.image.feature %}
           {% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}
@@ -24,6 +21,10 @@
           <image class="featured-image" src="{{ site.url }}/images/{{ page.image.feature }}"></image>
           {% endif %}
         {% endif %}
+
+        {% if page.source %}
+          <p class="small">Commenting on an article from <a target="_blank" href="{{ page.source.url }}">{{ page.source.name }}</a>{% if page.source.headline %}: "{{ page.source.headline }}" {% endif %}</p>
+        {% endif %}        
 
       </hgroup>
     </header>
