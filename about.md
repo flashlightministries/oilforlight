@@ -10,5 +10,7 @@ T.C. Howitt writes at the crossroads of technology and the gospel.  A former ent
 He's currently working on a book titled, **The Tower and the Tabernacle: A Biblical Examination of the Power and Purpose of Technique**.
 
 ### Contact
+
   **Email:** [tc@flmin.org](mailto:tc@flmin.org){:target="_blank"}
+  
   **Facebook:** [TC Howitt](http://facebook.com/whirlingvortices){:target="_blank"}
