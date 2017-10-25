@@ -2,6 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About Oil for Light
+passage: 2 Timothy 4:2
 description: The personal blog of T.C. Howitt
 ---
 
