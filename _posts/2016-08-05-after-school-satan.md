@@ -6,6 +6,7 @@ passage: Isaiah 5:20-21
 source:
     name: Washington Post
     url: https://www.washingtonpost.com/local/education/an-after-school-satan-club-could-be-coming-to-your-kids-elementary-school/2016/07/30/63f485e6-5427-11e6-88eb-7dda4e2f2aec_story.html
+    headline: "An After School Satan Club could be coming to your kid’s elementary school"
 image:
     feature: articles/2016-08-05-after-school-satan/after-school-satan.jpg
 comments: false
