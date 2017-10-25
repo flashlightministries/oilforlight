@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T.C. Howitt
-title: The Racist Death-Cult of Scientistic Naturalism
+title: The racist death-cult of scientistic naturalism
 image:
     feature: articles/2017-10-05-racist-death-cult-naturalism/pol-pot-skulls.jpg
 comments: false
