@@ -27,7 +27,7 @@ In this first part, I'm going to annotate only the opening sentence of the Human
 
 The Humanist Manifesto begins (with my annotations noted in brackets),
 
-"Humanism is a progressive philosophy of life [1] that, without supernaturalism [2], affirms our ability and responsibility to lead [3] ethical lives [4] of personal fulfillment [5] that aspire [6] to the greater good of humanity [7]."
+> Humanism is a progressive philosophy of life [1] that, without supernaturalism [2], affirms our ability and responsibility to lead [3] ethical lives [4] of personal fulfillment [5] that aspire [6] to the greater good of humanity [7].
 
 1. Philosophy, like science, is perpetually progressive, always a work-in-progress, endlessly leading somewhere and yet never arriving. The word "progressive" is a euphemism meaning inconclusive, imperfect, varying, relative, limited and, consequently, false. In contrast, God has delivered His revelation complete for all to see, His work accomplished in Jesus Christ. The one true living God of the Bible is definitive, perfect, invariant, objective, eternal and true. Unbelief in the existence of God notwithstanding, these are the undisputed attributes of God described in the Bible, and they stand in profound contradiction to humanist "progressive philosophy."
 
