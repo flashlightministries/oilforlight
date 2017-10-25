@@ -5,12 +5,13 @@ title: More atheist propaganda
 source:
     name: The Atlantic
     url: https://www.theatlantic.com/science/archive/2016/09/stunning-videos-of-evolution-in-action/499136/
+    headline: "Stunning Videos of Evolution in Action"
 image:
     feature: articles/2016-09-11-atheist-propaganda/bacteria.jpg
 comments: false
 ---
 
-This article, "Stunning Videos of Evolution in Action," is a faith-based propaganda piece for atheism. According to the writer, the experiment "shows the importance of randomness in evolution 'in a really beautiful way, a way that is easy to visualize and thus hard to deny.'"
+This article from The Atlantic is a faith-based propaganda piece for atheism. According to the writer, the experiment "shows the importance of randomness in evolution 'in a really beautiful way, a way that is easy to visualize and thus hard to deny.'"
 
 The materialist must argue that randomness and time, rather than God, created the universe, life, consciousness and everything. It's a dumb argument, literally relying on dumb luck to explain everything, but this is how God makes the wisdom of unbelieving men into foolishness.
 
