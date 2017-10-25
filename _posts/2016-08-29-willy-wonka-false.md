@@ -22,7 +22,9 @@ The Chocolate Factory message:
 
 Just about everyone believes in 2 and 3, and they tell 1 to their kids. It's like a mental disease. I'm no longer much of a Wonka fan.
 
-What's missing is the gospel:
+It's the prosperity gospel in a nutshell.
+
+What's missing is the true gospel of Jesus Christ:
 
 1. You're not good, and in fact you're depraved and deserve death.
 2. God gave His Son to save you, and you can get everything through Him.
