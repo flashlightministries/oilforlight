@@ -26,3 +26,13 @@ There's a better way, a way that glories in the righteousness and mercy of God.
 "Thus saith the LORD, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches: but let him that glorieth glory in this, that he understandeth and knoweth me, that I am the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the LORD" (Jeremiah 9:23-24).
 
 To an unbeliever, that sounds foolish. "It pleased God by the foolishness of preaching to save them that believe" (1 Corinthians 1:21b). God loves irony.
+
+It's true that this world is doomed:
+
+"But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up" (2 Peter 3:10).
+
+That's the bad news. Here's the good news for those who believe (also see John 3:16):
+
+"Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness" (2 Peter 3:13).
+
+The way heavenward is not to strive into the outer darkness using rocketry and space travel, or to build towers for that matter (Genesis 11:4ff). There is only one way, Jesus Christ, and He is the truth and life. For those who believe in Jesus Christ, the Holy Spirit makes their bodies His temple, delivering them in new spiritual bodies to life everlasting.
