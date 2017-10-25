@@ -6,8 +6,6 @@ passage: Hebrews 11:1
 comments: false
 ---
 
-2016-06-22-first-cause-supernatural
-
 Nature came into being by a first cause, and that first cause was and is, by definition, supernatural -- above and beyond nature. Further, it is folly to seek evidence for the supernatural in the visible realm of space-time.
 
 "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal" (2 Corinthians 4:18).
