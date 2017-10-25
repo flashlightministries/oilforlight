@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About
+title: About { site.title }
 description: { site.tagline }
 ---
 
