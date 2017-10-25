@@ -2,7 +2,7 @@
 layout: post
 author: T.C. Howitt
 title: The latest moon-creation myth
-passage: 1 Timothy 4:7
+passage: 1 Timothy 6:20
 source:
     name: The Verge
     url: https://www.theverge.com/2016/9/12/12879766/moon-planetary-collision-theory-earth-impact
