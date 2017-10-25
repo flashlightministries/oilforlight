@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T.C. Howitt
-title: Believing in Theoretical Science: Buying Lies From the Merchants of Doubt
+title: "Believing in Theoretical Science: Buying Lies From the Merchants of Doubt"
 comments: false
 ---
 
