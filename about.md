@@ -2,9 +2,10 @@
 layout: page
 permalink: /about/index.html
 title: About Oil for Light
-passage: 2 Timothy 4:2
 description: The personal blog of T.C. Howitt
 ---
+
+> Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine (2 Timothy 4:2).
 
 T.C. Howitt writes at the crossroads of technology and the gospel.  A former enterprise software architect with 20 years of experience, he now endeavors to answer the question, How can Christians live faithfully according to God's will in the modern world?
 
