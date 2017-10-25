@@ -4,7 +4,7 @@ author: T.C. Howitt
 title: A Biblical Assessment of The Humanist Manifesto, Part 1
 source:
     name: American Humanist Association
-    url: https://americanhumanist.org/what-is-humanism/manifesto3/
+    url: https://americanhumanist.org
 image:
     feature: articles/2016-11-21-humanist-manifesto/humanism.png
 comments: false
