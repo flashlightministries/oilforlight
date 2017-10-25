@@ -2,7 +2,7 @@
 layout: post
 author: T.C. Howitt
 title: The latest moon-creation myth
-passage: 
+passage: Genesis 1:16
 source:
     name: The Verge
     url: https://www.theverge.com/2016/9/12/12879766/moon-planetary-collision-theory-earth-impact
