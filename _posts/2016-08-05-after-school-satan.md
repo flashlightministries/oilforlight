@@ -11,7 +11,7 @@ image:
 comments: false
 ---
 
-The [After School Satan Clubs](https://afterschoolsatan.com/){:target="_blank"} clubs may proudly declare themselves to be atheists who stand against religion in favor of scientific materialism and free thinking, but they worship false idols just the same. They're indeed satanists, even while they deny Satan's existence. They're confused about the nature of their own belief system, which is a blind faith in the truth claims of various theories and philosophies of man, in direct denial of God's word. That's been Satan's domain since the garden of Eden.
+The [After School Satan Clubs](https://afterschoolsatan.com/){:target="_blank"} may proudly declare themselves to be atheists who stand against religion in favor of scientific materialism and free thinking, but they worship false idols just the same. They're indeed satanists, even while they deny Satan's existence. They're confused about the nature of their own belief system, which is a blind faith in the truth claims of various theories and philosophies of man, in direct denial of God's word. That's been Satan's domain since the garden of Eden.
 
 "Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter! Woe unto them that are wise in their own eyes, and prudent in their own sight!" (Isaiah 5:20-21).
 
