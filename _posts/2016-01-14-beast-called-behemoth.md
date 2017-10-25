@@ -2,7 +2,7 @@
 layout: post
 author: T.C. Howitt
 title: The beast called Behemoth
-passage: Job 40
+passage: Job 40:15-24
 comments: false
 ---
 
