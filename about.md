@@ -11,6 +11,5 @@ He's currently working on a book titled, **The Tower and the Tabernacle: A Bibli
 
 ### Contact
 
-  **Email:** [tc@flmin.org](mailto:tc@flmin.org){:target="_blank"}
-  
-  **Facebook:** [TC Howitt](http://facebook.com/whirlingvortices){:target="_blank"}
+  * **Email:** [tc@flmin.org](mailto:tc@flmin.org){:target="_blank"}
+  * **Facebook:** [TC Howitt](http://facebook.com/whirlingvortices){:target="_blank"}
