@@ -10,7 +10,7 @@ image:
 comments: false
 ---
 
-Check out the quotes in the attached article ("Prepared to die: why people are willing to risk their lives to visit Mars") and compare them to the following Bible passage.
+Check out the quotes in the source article from The Guardian ("Prepared to die: why people are willing to risk their lives to visit Mars") and compare them to the following Bible passage.
 
 The apostle Paul describes a spiritual journey of faith that follows God's will for us to be not conformed to this world, but to be transformed by the renewing of our minds, while the people polled for Mars visitation wish to confirm their vain imaginings by transforming another planet to conform to their worldly desire for self-actualization.
 
