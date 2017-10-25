@@ -21,7 +21,7 @@ layout: default
 
         <td class="post-content-container">
           <div>
-            <h4><a href="{{ post.url }}">{{ post.title }}</a>{% if page.passage%} [{{ page.passage }}]{% endif %}</h4>
+            <h4><a href="{{ post.url }}">{{ post.title }}</a>{% if post.passage%} [{{ post.passage }}]{% endif %}</h4>
             <p class="small">
               <span class="date">{{post.date | date: "%b %d, %Y" }}</span>
             </p>
