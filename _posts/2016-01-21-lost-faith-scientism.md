@@ -5,8 +5,6 @@ title: I lost my faith
 comments: false
 ---
 
-I lost my faith.
-
 I once believed in the Big Bang Theory of creation, but I couldn't find any compelling evidence that it was true. I listened to my priests of Physics and trusted their assertions as far as they'd go. But I was bothered by the clear contradiction that says scientists need evidence before they'll trust in the value of theory. The contradictions were everywhere. They told me every effect has a cause, but I could find no prime cause that created the universe that wouldn't itself beg for a cause. The question posed for me an extremely uncomfortable contradiction.
 
 I once believed in the Theory of macroevolution, but again, I was shown absolutely no evidence to prove it. I attended the Church of St. Darwin for years, and never saw one stitch of evidence for this outrageous claim that everything, including us, evolved from simple cellular matter and pure dumb luck. My fellow worshippers pointed to fossils, and I wondered, why are they using evidence of microevolution to support their leap of faith in macroevolution? I still believe in microevolution because I can see all the evidence. I learned that even St Darwin questioned his own faith in macroevolution.
