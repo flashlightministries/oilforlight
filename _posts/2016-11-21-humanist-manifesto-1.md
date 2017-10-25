@@ -6,7 +6,7 @@ source:
     name: American Humanist Association
     url: https://americanhumanist.org/what-is-humanism/manifesto3/
 image:
-    feature: articles/2016-11-21-humanist-manifesto-1/humanism.png
+    feature: articles/2016-11-21-humanist-manifesto/humanism.png
 comments: false
 ---
 
