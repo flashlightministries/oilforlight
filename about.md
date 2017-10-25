@@ -13,7 +13,7 @@ A former enterprise software architect with 20 years of experience, he now endea
 
 ### What does "Oil for Light" mean?
 
-In Exodus 39, the children of Israel bring to Moses all the materials needed to build the tabernacle.  The Bible describes these items as offerings to God (Exo 25:1-9).
+In Exodus 39, the children of Israel bring to Moses all the materials needed to build the tabernacle.  The Bible describes these items as an offering to God (Exo 25:1-9).
 
 Included in the supply list were "the lamps to be set in order, and all the vessels thereof, and the oil for light" (Exo 39:37b).  The golden lamp stand was the only source of light inside the holy place of the tabernacle.
 
