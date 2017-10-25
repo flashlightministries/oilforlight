@@ -8,11 +8,11 @@ image:
 comments: false
 ---
 
-Wonka: Don’t forget what happened to the man who suddenly got everything he wanted.
+_Wonka_: Don’t forget what happened to the man who suddenly got everything he wanted.
 
-Charlie: What happened?
+_Charlie_: What happened?
 
-Wonka: He lived happily ever after.
+_Wonka_: He lived happily ever after.
 
 The Chocolate Factory message:
 
