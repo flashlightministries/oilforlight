@@ -1,9 +1,19 @@
 {% include JB/setup %}
 {% include head.html %}
 
-<section class="article">
+<section class="article-default">
 
-  <div class="nav" style="background-image: url({{ site.url }}/images/red-gradient-64px.png)"></div>
+  {% if page.image.feature %}
+    <div class="overlay-lighter"></div>
+    {% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}
+    <div class="featured-image" style="background-image: url({{ page.image.feature }})"></div>
+    {% else %}
+    <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
+    {% endif %}
+  {% else %}
+    <div class="overlay-lighter"></div>
+    <div class="featured-image" style="background-image: url({{ site.url }}/images/oil-lamp.jpg)"></div>
+  {% endif %}  
 
   <article class="wrap post">
     <div class="article-content">
