@@ -14,7 +14,7 @@
           <span class="date">{{page.date | date: "%b %d, %Y" }}</span>
         </p>
         {% if page.source %}
-          <p class="small">Source: <a target="_blank" href="{{ page.source.url }}">{{ page.source.name }}</a></p>
+          <p class="small">Article from: <a target="_blank" href="{{ page.source.url }}">{{ page.source.name }}{% if page.source.headline %}: "{{ page.source.headline }}" {% endif %}</a></p>
         {% endif %}
 
         {% if page.image.feature %}
