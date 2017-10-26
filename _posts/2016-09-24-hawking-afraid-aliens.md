@@ -7,7 +7,7 @@ source:
     url: https://www.usatoday.com/story/tech/nation-now/2016/09/23/stephen-hawking-aliens-wary-answering-back-intelligent-life/90895018/
     headline: "Stephen Hawking: If aliens call, we should be 'wary of answering'"
 image:
-    feature: articles/2016-09-24-hawking-afraid-aliens/hawking-in-space.jpg
+    feature: articles/2016-09-24-hawking-afraid-aliens/hawking.jpg
 comments: false
 ---
 
