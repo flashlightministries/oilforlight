@@ -30,12 +30,17 @@ If you aren't familiar with Catholic tradition, you probably don't recognize the
 
 Daily ritual phases for people indwelling this inverted tower are indicated in another diagram that divides the analemma shape at six points:
 
-5 A.M.: Exalt
-9 A.M.: Venerate
-1 P.M.: Work
-5 P.M.: Cultivate
-9 P.M.: Dream
-1 A.M.: Inurn
+**5 A.M.**: Exalt
+
+**9 A.M.**: Venerate
+
+**1 P.M.**: Work
+
+**5 P.M.**: Cultivate
+
+**9 P.M.**: Dream
+
+**1 A.M.**: Inurn
 
 These are more Catholic terms, if not references to Freemasonry and other cultic beliefs.
 
