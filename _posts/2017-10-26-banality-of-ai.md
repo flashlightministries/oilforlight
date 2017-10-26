@@ -29,15 +29,15 @@ There are certainly ways to design rules for evaluating random changes for their
 
 Science fiction author Isaac Asimov put together "Three Laws of Robotics," and strangely, these laws are taken by many to apply to real-world technology going forward:
 
-1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+* A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 
-2. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
+* A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
 
-3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.
+* A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.
 
 According to the reasoning put forth in this article, we ought to devise a Fourth Law for Robotics, which I'll express as an artificial golden rule:
 
-4. Give input unto robots as you would have them output results unto you.
+* Give input unto robots as you would have them output results unto you.
 
 Humans are not input/output devices, despite the pervasive tendency for people to view their own minds as mere mechanisms.  However, AI robots are indeed merely input/output devices.
 
