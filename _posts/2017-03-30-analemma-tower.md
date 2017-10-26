@@ -42,6 +42,8 @@ Daily ritual phases for people indwelling this inverted tower are indicated in a
 
 **1 A.M.**: Inurn
 
+![Analemma Daily Cycle](http://oilforlight.com/images/articles/2017-03-30-analemma-tower/analemma-cycle.jpg)
+
 These are more Catholic terms, if not references to Freemasonry and other cultic beliefs.
 
 The day begins with exaltation and veneration. Exaltation and veneration of whom? Dead people, presumably special holy men. That's what the Reliquary is for. Then the afternoon is consumed by work, by toil, by tilling. That probably happens on the business/commerce/agricultural floors at the bottom end of the tower. Finally, sleep, perchance to dream while others burn and entomb the dead in the Funerary.
