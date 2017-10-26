@@ -28,7 +28,7 @@ Unlike most land mammals, the elephant's testicles don't descend. As Aristotle c
 
 As for God's intention in describing these qualities of the animal, he makes it clear in the surrounding verses that Behemoth has nothing to worry about, either in his manhood (excuse me for that) or in his defenses against testicular evisceration (sorry again). In context, God says Behemoth's bones are like brass, bars of iron, that the animal carries his strength in his loins, that his force is in the navel of his belly.
 
-The language is obscured due to taboo. "Tail" and "rocks" are both euphemisms, as attested by English and Hebrew etymologies. Etymonline.com has "penis" derived "from Latin penis 'penis,' earlier 'tail.'" As for "stones," the word remains to this day as a euphemism for testicles. Strong's Concordance says "stone" is "the same as pachad; a testicle (as a cause of shame akin to fear)." Come on, guys. Don't fear the testes. Compare these euphemisms with the word "nakedness" used throughout the Bible in place of "genitals."
+The language is obscured due to taboo. "Tail" and "rocks" are both euphemisms, as attested by English and Hebrew etymologies. Etymonline.com has "penis" derived "from Latin 'penis,' earlier 'tail.'" As for "stones," the word remains to this day as a euphemism for testicles. Strong's Concordance says "stone" is "the same as pachad; a testicle (as a cause of shame akin to fear)." Come on, guys. Don't fear the testes. Compare these euphemisms with the word "nakedness" used throughout the Bible in place of "genitals."
 
 That's my story and I'm not necessarily sticking to it, lest people think I'm a perv.
 
