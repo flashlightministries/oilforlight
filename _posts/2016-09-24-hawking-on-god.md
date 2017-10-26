@@ -4,7 +4,7 @@ author: T.C. Howitt
 title: Stephen Hawking on God
 passage: 1 Corinthians 3:18
 image:
-    feature: articles/2016-09-24-hawking-on-god/hawking-in-space.jpg
+    feature: articles/2016-09-24-hawking-on-god/hawking.jpg
 comments: false
 ---
 
