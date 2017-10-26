@@ -14,7 +14,7 @@ This article from MIT includes the tagline, "Everyone is getting older. Few are 
 
 That really sums up the problem, and logically speaking, there are only two ways to solve it:
 
-1. Embrace aging as necessary to growing, and dying as a natural consequence of living, or
+1. Embrace aging as necessary to growing, and dying as a natural consequence of living in the flesh, or
 
 2. Eliminate aging and ultimately achieve immortality. This group of geniuses is taking this second path.
 
