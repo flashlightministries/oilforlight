@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T.C. Howitt
-title: The Israelites did not wipe out the Canaanites, as scientists claim
+title: The Israelites did not wipe out the Canaanites, as article claims the Bible says
 passage: Psalm 106:34-39
 source:
     name: The Independent
@@ -16,7 +16,7 @@ Wow! That's pretty bold. Does the study really disprove a biblical suggestion (w
 
 I'm going to discuss one article at length in a discursive manner. I hope you can come along for the trip.
 
-An article in the Independent (shared in this post) opens by quoting "leading atheist" Richard Dawkins, who said "that the God of the Old Testament was 'a vindictive, bloodthirsty ethnic cleanser ... a genocidal ... megalomaniacal, sadomasochistic, capriciously malevolent bully.'”
+This article from The Independent opens by quoting "leading atheist" Richard Dawkins, who said "that the God of the Old Testament was 'a vindictive, bloodthirsty ethnic cleanser ... a genocidal ... megalomaniacal, sadomasochistic, capriciously malevolent bully.'”
 
 A number of problems with this opening paragraph. To wit,
 
