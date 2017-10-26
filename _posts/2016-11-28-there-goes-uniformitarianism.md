@@ -15,17 +15,7 @@ The speed of light (C) is one of those supposed constants in nature that scienti
 
 It is a great leap of faith to believe that any constants exist in nature.
 
-Now a couple scientists are questioning Einstein's basis for his theories of relativity -- the constant speed of light -- and for some reason, the press is promoting their conjecture.
-
-"The pair plan to test their theory using readings from cosmic microwave background radiation..."
-
-Theories never prove anything, but only proffer the most favored notion. The article continues,
-
-"Because this is a theory, as Einstein himself once said, 'no amount of experimentation can ever prove me right; a single experiment can prove me wrong.'"
-
-So true, Einstein.
-
-This news is reporting nothing but a new theory countering an existing theory, but in this case, the existing theory is essential to the rest of theoretical physics.
+Now a couple scientists are questioning Einstein's basis for his theories of relativity -- the constant speed of light.  This news is reporting nothing but a new theory countering an existing theory, but in this case, the existing theory is essential to the rest of theoretical physics.
 
 Theoretical physics is deeply invested in believing that the speed of light is known and constant. We're so confident in the constant speed of light, in fact, that we've based all our other standards of measurement on it -- the second (time), the meter (space), the kilogram (mass) and the joule (energy) are all based on this theoretically constant speed of light. In other words, we've put all our eggs into this one basket, the speed of light. We measure everything from this single point of reference.
 
