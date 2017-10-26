@@ -6,12 +6,11 @@ passage: Romans 6:23
 source:
     name: TechCrunch
     url: https://techcrunch.com/2016/09/21/chan-zuckerberg-initiative-announces-investment-to-cure-disease/
+    headline: "Chan Zuckerberg Initiative announces $3 billion investment to cure disease"
 image:
     feature: articles/2016-09-21-cure-for-death/causes-of-death.jpg
 comments: false
 ---
-
-The headline reads, _Chan Zuckerberg Initiative announces $3 billion investment to cure disease_.
 
 The idea of a 10-year program to "cure, prevent, or manage all disease" through science funding is almost too absurd for description, so I drew a pie chart to correct their slight statistical error.
 
