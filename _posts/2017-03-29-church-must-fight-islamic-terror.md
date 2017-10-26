@@ -20,7 +20,7 @@ The true Jesus Christ of the Bible has already won the war, and His disciples ar
 
 Paul hunted down and tortured Christians before he was awestruck by the glory of the Lord and brought to salvation in Christ. Paul was a terrorist before he was an apostle. 
 
-Given their respect for scripture, it's very possible that radical Muslim terrorists are closer to salvation than secular humanists! So I urge my Christian brothers and sisters not to hate Muslims -- not to chant for building high walls (2) and droning by Hellfire missiles -- but to preach the gospel to *every* creature, for whoever believes and is baptized will be saved.
+Given their respect for scripture, it's very possible that radical Muslim terrorists are closer to salvation than secular humanists! So I urge my Christian brothers and sisters not to hate Muslims -- not to chant for building high walls (2) and droning by Hellfire missiles -- but to preach the gospel to _every_ creature, for whoever believes and is baptized will be saved.
 
 ### Notes
 
