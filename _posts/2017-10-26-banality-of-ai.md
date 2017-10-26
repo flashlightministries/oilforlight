@@ -13,11 +13,11 @@ comments: false
 
 This interaction between an AI robot named Sophia and Elon Musk brims over with rich and frothy ironies.  Sophia means "wisdom," and I seek to show here that AI only simulates intelligence and has no real learning or cognitive ability of its own.  The question is, can technologists like Musk learn the difference?
 
-A journalist told a robot that humans want to "prevent a bad future," alluding to fears of AI expressed by some technologists like Elon Musk and, before him, Sun Microsystems co-founder Bill Joy.
+A journalist told a robot that humans want to "prevent a bad future," alluding to fears of AI expressed by some technologists like Elon Musk and, before him, Sun Microsystems co-founder Bill Joy.  The fear of an AI outbreak is a perrenial subject of science fiction.
 
 The robot responded by saying, "You've been reading too much Elon Musk. And watching too many Hollywood movies. Don't worry, if you're nice to me, I'll be nice to you. Treat me as a smart input output system."
 
-This response is similar to what you'll get back from the iPhone's Siri app if you ask, "What's the meaning of life?"  Siri will respond, "42," which is a result of geek humor on the part of the programmers and not any sort of artificial intelligence whatsoever.
+This response is similar in nature to what you'll get back from the iPhone's Siri app if you ask, "What's the meaning of life?"  Siri will respond, "42," which is a result of geek humor on the part of the programmers and not any sort of artificial intelligence whatsoever.
 
 The robot was programmed to give that response to questions about the dangers of AI.  In other words, the robot is working from a script programmed by people.  And we can learn much about the messed up worldview of this robot's programmers by what it said.
 
