@@ -14,7 +14,7 @@ Am I calling for a 21st century Crusade? Hardly. Allow me to clarify by allowing
 
 The church needs to combat the spiritual wickedness of Islam by leading Muslims to Christ, one person at a time.
 
-In the teachings of Muhammad, Satan has left his flank susceptible to attack by acknowledging the holiness of the Bible and the prophethood of Jesus Christ. By portraying Jesus as a mere "rasul," or messenger, the devil intended to diminish Christ's stature as the Son of God and Lord of all creation, but he unintentionally left open a door to evangelism. Muslim militant forces charge forward using secular-style propaganda, social engineering and shock psychology, but their guard is extremely vulnerable on the spiritual front.
+In the teachings of Muhammad, Satan has left his flank susceptible to attack by acknowledging the holiness of the Bible and the prophethood of Jesus Christ. By portraying Jesus as a mere _rasul_, or messenger, the devil intended to diminish Christ's stature as the Son of God and Lord of all creation, but he unintentionally left open a door to evangelism. Muslim militant forces charge forward using secular-style propaganda, social engineering and shock psychology, but their guard is extremely vulnerable on the spiritual front.
 
 The true Jesus Christ of the Bible has already won the war, and His disciples are called to proclaim His victory so that many more may share in it for eternity. Faith comes from hearing, and hearing by the word of Christ. Truly, Christians are called to love their enemies, and there is nothing more loving than sharing the saving gospel of Jesus Christ.
 
