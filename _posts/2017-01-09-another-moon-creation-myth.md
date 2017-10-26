@@ -6,6 +6,7 @@ passage: 1 Timothy 6:20
 source:
     name: Space.com
     url: https://www.space.com/35258-earth-moon-formed-in-moonlet-mashup.html
+    headline: "Earth's Moon Formed in 'Moonlet' Mash-Up After Many Earth Impacts"
 image:
     feature: articles/2017-01-09-another-moon-creation-myth/moonlets.jpg
 comments: false
