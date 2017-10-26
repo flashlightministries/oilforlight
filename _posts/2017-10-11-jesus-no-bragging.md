@@ -3,6 +3,8 @@ layout: post
 author: T.C. Howitt
 title: "Jesus doesn't brag"
 passage: John 8:54
+image:
+    feature: articles/2017-10-11-jesus-no-bragging/cross-calvary.jpg
 comments: false
 ---
 
