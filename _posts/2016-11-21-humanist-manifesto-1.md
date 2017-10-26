@@ -3,9 +3,6 @@ layout: post
 author: T.C. Howitt
 title: A biblical assessment of the Humanist Manifesto, Part 1
 passage: 1 Corinthians 2:14
-source:
-    name: American Humanist Association
-    url: https://americanhumanist.org
 image:
     feature: articles/2016-11-21-humanist-manifesto/humanism.png
 comments: false
