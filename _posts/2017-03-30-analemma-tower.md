@@ -24,7 +24,7 @@ Anyone reading this proposal will be immediately struck by its sheer stupidity. 
 
 "Business is conducted at the lower end of the tower, while sleeping quarters are approximately 2/3 of the way up. Devotional activities are scattered along the highest reaches."
 
-Say what? The conceptual diagrams show that the top third of the tower is dedicated to spiritual devotion services. Floors for "Worship" are surmounted by a "Reliquary," and at the tippy-top, a "Funerary."
+Say what? Devotional activities?  The conceptual diagrams show that the top third of the tower is dedicated to spiritual devotion services. Floors for "Worship" are surmounted by a "Reliquary," and at the tippy-top, a "Funerary."
 
 If you aren't familiar with Catholic tradition, you probably don't recognize the term "reliquary." It's a place for relics, including the dead bodies of venerated men.
 
