@@ -16,7 +16,7 @@ That really sums up the problem, and logically speaking, there are only two ways
 
 1. Embrace aging as necessary to growing, and dying as a natural consequence of living, or
 
-2. Eliminate aging and ultimately achieve immortality. This group of geniuses is taking the second path.
+2. Eliminate aging and ultimately achieve immortality. This group of geniuses is taking this second path.
 
 Researchers have shown in the lab that this new pill can extend the lifespan of worms and mice, and soon you'll be able to buy a subscription (not a prescription) for $50 per month. Their founder says it's "useful for health maintenance," and the writer of this article thinks it "could prove profitable." Sweet. Maybe they'll setup a multi-level marketing scheme so we can all profit.
 
