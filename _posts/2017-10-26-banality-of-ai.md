@@ -23,7 +23,7 @@ The robot was programmed to give that response to questions about the dangers of
 
 First, AI does not come about through undirected learning.  Programmers must wire in heuristics to direct the progress of adaptive algorithms towards a goal of appropriately responding to input.  What qualifies as "appropriate" is entirely up to the programmers.
 
-This fact flies in the face of macroevolutionary theory, which states that all you need is random mutation, time and chance to bring about all the complexity and beauty we see around us today.  What AI programmers know, however, is that random mutation never increases the complexity of a system -- it only breaks it down and quickly renders malfunction, incoherence and chaos.
+This fact flies in the face of macroevolutionary theory, which states that all you need is random mutation, time and chance to bring about all the complexity and beauty we see around us today.  What AI programmers know, however, is that undirected random mutation never increases the complexity of a system -- it only breaks it down and quickly renders malfunction, incoherence and chaos -- and it's their job as intelligent human beings to provide this direction.
 
 There are certainly ways to design rules for evaluating random changes for their fitness to arrive at a preprogrammed goal.  But that's just a simulation of intelligence, and a roundabout one at that.
 
