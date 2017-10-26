@@ -32,12 +32,6 @@ The language is obscured due to taboo. "Tail" and "rocks" are both euphemisms, a
 
 That's my story and I'm not necessarily sticking to it, lest people think I'm a perv.
 
-I believe in the inerrancy of the Bible, but not necessarily the veracity of my hypothesis here. It's just a reasonable explanation without much data. Maybe I'll tackle the identity of Leviathan next, a trickier task.
-
-I don't think this off-the-cuff essay about an animal poses much of a dilemma for materialists, atheists, technological sycophants and adherents to the cult of scientism -- my main target among the unsaved, unbelieving masses -- but you just wait until I post something about Creationism...
-
-So come at me, bro. I'm hoping you will. I'll put up my best defense, which is called apologetics, which is actually a subtle (and biblical) way of evangelizing. It's like Bruce Lee hanging out around gangsters and ruffians as if he's not looking for a confrontation: when things get sticky, it ain't exactly a matter of chance that he's got a pair of nunchucks in his back pocket. Unlike Bruce Lee, I'm hardly deadly with my art. The truth is, I'm looking for practice. I'm working toward participating in public debates on a number of fronts.
-
-But the Bruce Lee in-training metaphor ultimately fails because I'm not looking for the fight. I'm looking for a reasoned debate, yes, but more than that, I'd like to change your mind, in fact help you save your soul. Seriously. And while my belief in God through Jesus Christ and my faith through grace is unshakable (this is part of a larger epistemological point yet to be made), I look forward to deepening my understanding of the world and beyond by listening, learning and changing my own mind.
+I believe in the inerrancy of the Bible, but not necessarily the veracity of my hypothesis here. It's just a reasonable explanation without much data.
 
 Much love to all of you, and may you never encounter an elephant in heat. In fact, don't even Google it.
