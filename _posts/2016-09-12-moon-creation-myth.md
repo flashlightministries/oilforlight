@@ -18,7 +18,7 @@ That idea held sway for decades, but since the 1970s, scientists have been favor
 
 The article shared here adjusts the Big Whack theory again to assert that the impact was high-energy enough to vaporize everything, including the earth itself, creating a cloud of whatnot that later cooled into the earth and moon we have now.
 
-Undergirding all this conjecture is unfaith, a strong belief in unbelief, that is, a distrust in God's word in favor of man's shifting understanding.
+Undergirding all this conjecture is unfaith, a strong belief in unbelief; that is, a distrust in God's word in favor of man's shifting understanding.
 
 The Darwin family going back generations was largely Unitarian, tending toward deism if not atheism, so a penchant for theorizing on godless origins was in their blood. Charles was born with his grandfather Erasmus' theory of evolution already on the table, and when Charles attended the second voyage of the Beagle, he was merely looking for evidence in support of that theory.
 
