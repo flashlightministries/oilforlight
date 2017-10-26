@@ -58,7 +58,7 @@ The analemma shape is reminiscent of a lemniscate, the symbol for infinity, and 
 
 "Analemma" comes from a Greek word meaning "support," which refers to the adjustable mount for sundials that was used to compensate for variations in the solar path. Literally, the word means "to take up." I doubt Rudakevych had all this in mind with the name of his tower fantasy, but I find it fitting for a project that intends to exalt and deliver men based on their own works.
 
-That brings me to the tower of Babel.
+That brings us to the tower of Babel.
 
 "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth" (Genesis 11:4).
 
