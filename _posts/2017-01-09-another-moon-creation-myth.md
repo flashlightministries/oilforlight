@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T.C. Howitt
-title: Another moon-creation myth
+title: "Here's another moon-creation myth"
 passage: 1 Timothy 6:20
 source:
     name: Space.com
