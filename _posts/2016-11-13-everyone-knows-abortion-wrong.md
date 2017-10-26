@@ -12,13 +12,13 @@ First, from a logical-secular perspective, then from a biblical perspective cent
 
 We all know in our hearts that life begins at conception, but not everyone can admit it. To explain by way of some simple questions to ask yourself,
 
-What is pregnancy, if not the process of bearing new life beginning from the point of conception? What is being aborted, if not the pregnancy? Who is the mother making the "choice" to abort, if not the mother of a new child, who has no choice?
+What is pregnancy, if not the process of bearing new life beginning from the point of conception? What is being aborted, if not the pregnancy? Who is the mother making this "choice" to abort, if not the mother of a new child, who has no choice?
 
 Honestly answering these questions leads to only one conclusion: that abortion is equivalent to murder.
 
 Admitting these facts about abortion can complicate the practical aspects of our lives and choices. The top three reasons I hear in support of aborting a pregnancy are (1) protecting the life of the mother, (2) rape/incest of the mother and (3) poverty of the mother.
 
-Choosing to end the life of the child before he or she is born really can avoid these hard problems. Sometimes bringing life into the world will cause so much suffering that we choose to annihilate it instead. The cold fact is that we tend to favor the people we know and see over the invisible ones. That's a natural bias.
+Choosing to end the life of the child before he or she is born really can avoid these hard problems. Sometimes bringing life into the world will cause so much suffering that we choose to annihilate it instead. The cold fact is that we tend to favor the people we know and overlook the invisible ones. That's a natural bias.
 
 So like I said, not everyone is willing to admit that it's murder. Pro-choice is a euphemism for pro-euthanasia, like putting an animal to "sleep," but in the case of abortion, the patients suffering the incurable and painful condition are ourselves, who continue to live on. We justify the murder in order to serve the "greater good."
 
