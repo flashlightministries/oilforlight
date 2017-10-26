@@ -6,6 +6,7 @@ passage: Romans 1:18-22
 source:
     name: Vice
     url: https://motherboard.vice.com/en_us/article/z43wpx/goodbye-world-weve-passed-the-carbon-tipping-point-for-good
+    headline: "Goodbye World: We’ve Passed the Carbon Tipping Point For Good"
 image:
     feature: articles/2016-09-30-climate-end-near/earth.jpg
 comments: false
