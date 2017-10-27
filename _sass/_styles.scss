@@ -1037,12 +1037,10 @@ div.pagination {
   width: 50%;
 }
 
-.page-nav span a.next {
-  float: left;
-  text-align: left;
+.page-nav span.align-right {
+  float: right;
 }
 
 .page-nav span a.prev {
-  float: right;
   text-align: right;
 }
