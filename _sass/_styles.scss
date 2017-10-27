@@ -1023,3 +1023,21 @@ article span.date {
 div.pagination {
     visibility: hidden;
 }
+
+.page-nav {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.page-nav a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.page-nav .next {
+  text-align: right;
+}
