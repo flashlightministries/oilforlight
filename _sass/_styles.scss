@@ -1032,17 +1032,17 @@ div.pagination {
   font-size: 18px;
 }
 
-.page-nav a.next {
+.page-nav span.align-left {
+  display: inline-block;
+  width 50%;
+}
+
+.page-nav span a.next {
   float: left;
   text-align: left;
 }
 
-.page-nav a.prev {
+.page-nav span a.prev {
   float: right;
   text-align: right;
-}
-
-span.align-left {
-  display: inline-block;
-  width 50%;
 }
