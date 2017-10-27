@@ -62,10 +62,14 @@
     
   <div class="page-nav">
     {% if page.next.url %}
-      <a class="next" href="{{page.next.url}}">&raquo; {{page.next.title}}</a>
+      <span>
+        <a class="next" href="{{page.next.url}}">&laquo; {{page.next.title}}</a>
+      </span>
     {% endif %}
     {% if page.previous.url %}
-      <a class="prev" href="{{page.previous.url}}">{{page.previous.title}} &laquo;</a>
+      <span class="align-right">
+        <a class="prev" href="{{page.previous.url}}">{{page.previous.title}} &raquo;</a>
+      </span>
     {% endif %}  
   </div>    
     
