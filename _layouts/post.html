@@ -8,8 +8,7 @@
   <article class="wrap post">
     <header class="post-header">
       <hgroup>
-        <h1>{{page.title}}</h1>
-        {% if page.passage%}<h3>{{ page.passage }}</h3>{% endif %}
+        <h1>{{page.title}}{% if page.passage%}<br/>{{ page.passage }}{% endif %}</h1>
         <p class="small">
           <span class="author">By {{page.author}}</span>
         </p>
@@ -34,7 +33,7 @@
 
     {{ content }}
     
-  <hr>
+  <hr/>
     
   <div class="post-sharing">
     <span><a target="_blank" href="http://www.facebook.com/share.php?u={{ site.url }}{{ page.url }}&amp;title={{ page.title | uri_escape }}">
