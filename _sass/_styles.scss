@@ -1024,11 +1024,16 @@ div.pagination {
     visibility: hidden;
 }
 
-.page-nav div {
+div.page-nav {
+  display: flex;
+  align-items: center;  
+}
+
+div.page-nav div {
   display: inline-block;
   width: 45%;
 }
 
-.page-nav div.align-right {
+div.page-nav div.align-right {
   text-align: right;
 }
