@@ -1032,3 +1032,12 @@ div.pagination {
 .page-nav span.align-right {
   text-align: right;
 }
+
+.page-nav div {
+  display: inline-block;
+  width: 45%;
+}
+
+.page-nav div.align-right {
+  text-align: right;
+}
