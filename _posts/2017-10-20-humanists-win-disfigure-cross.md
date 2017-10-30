@@ -8,7 +8,7 @@ source:
     url: https://www.washingtontimes.com/news/2017/oct/18/peace-cross-of-bladensburg-ruled-unconstitutional-/
     headline: "Peace Cross of Bladensburg ruled unconstitutional by appeals court"
 image:
-    feature: articles/2017-10-29-humanists-win-disfigure-cross/peace-cross.jpg
+    feature: articles/2017-10-20-humanists-win-disfigure-cross/peace-cross.jpg
 comments: false
 ---
 
