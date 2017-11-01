@@ -20,9 +20,9 @@ Here, Satan quotes Psalm 91:11-12, challenging Jesus to prove His faith by jumpi
 
 "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God" (Mat 4:7).
 
-Jesus used Deuteronomy 6:16 to point out the devil's error, taking advantage of the opportunity unintentionally given by Satan to edify the believers who read this account.
+Jesus used Deuteronomy 6:16 to point out the devil's error, taking advantage of the opportunity unintentionally given by Satan to edify the believers who read of this account.
 
-As in everything else Jesus did, He provides a perfect example for His disciples to follow.
+As in everything else Jesus did, here He provides a perfect example for His disciples to follow.
 
 In this case, we have a Newsweek cover article quoting the latter part of John 8:44 in order to paint Trump as the Prince of Lies, which is an (unbiblical) epithet for Satan (he's called the "father of lies" and the "prince of the power of the air," but not the "prince of lies").  Anyway, here's what Newsweek quotes:
 
