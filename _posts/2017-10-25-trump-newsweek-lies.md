@@ -24,7 +24,7 @@ Jesus used Deuteronomy 6:16 to point out the devil's error, taking advantage of 
 
 As in everything else Jesus did, here He provides a perfect example for His disciples to follow.
 
-In this case, we have a Newsweek cover article quoting the latter part of John 8:44 in order to paint Trump as the Prince of Lies, which is an (unbiblical) epithet for Satan (he's called the "father of lies" and the "prince of the power of the air," but not the "prince of lies").  Anyway, here's what Newsweek quotes:
+In this case, we have a Newsweek cover story quoting the latter part of John 8:44 in order to paint Trump as the Prince of Lies, which is an (unbiblical) epithet for Satan (he's called the "father of lies" and the "prince of the power of the air," but not the "prince of lies").  Anyway, here's what Newsweek quotes:
 
 "When he lies, he speaks his native language, for he is a liar and the father of lies" (Jhn 8:44b NIV).
 
