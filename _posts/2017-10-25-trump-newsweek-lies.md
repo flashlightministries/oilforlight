@@ -16,7 +16,7 @@ I praise the Lord any time an unbeliever quotes scripture.  They usually mean ha
 
 "And [Satan] saith unto [Jesus], If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone" (Mat 4:6).
 
-Here, Satan quotes Psalm 91:11-12, challenging Jesus to prove His faith by jumping off the highest point of the temple, ignorant of how scripture also teaches believers not to challenge God and test His promises for protection.
+Here, Satan quotes Psalm 91:11-12, challenging Jesus to prove His faith by jumping off the highest point of the temple, ignorant of how scripture also teaches believers not to challenge God and test His promises of protection.
 
 "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God" (Mat 4:7).
 
