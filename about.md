@@ -7,7 +7,7 @@ description: The personal blog of T.C. Howitt
 
 > Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine (2 Timothy 4:2).
 
-T.C. Howitt writes at the gospel crossroads of truth and reality, using the Bible to illuminate our benighted culture.  He considers no subject sacred in this fallen world, relying on the power of God's word alone to boldly declaim the shocking wickedness surrounding us in the forms of secular humanism, scientism and technological idolatry.
+T.C. Howitt writes at the gospel crossroads of truth and reality, using the Bible to illuminate our benighted culture.  He relies on the power of God's word alone to boldly declaim the shocking wickedness surrounding us in the forms of secular humanism, atheism, scientism and technological idolatry.
 
 And sometimes, he just preaches the gospel.
 
