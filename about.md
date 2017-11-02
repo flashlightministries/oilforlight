@@ -36,4 +36,4 @@ God willing, the articles I write on this blog are expressions of the Holy Spiri
   * **Email:** [tc@flmin.org](mailto:tc@flmin.org){:target="_blank"}
   * **Facebook:** [TC Howitt](http://facebook.com/whirlingvortices){:target="_blank"}
   
-![http://oilforlight.com/images/stop-atheist-propaganda.jpg]
+![](http://oilforlight.com/images/stop-atheist-propaganda.jpg)
