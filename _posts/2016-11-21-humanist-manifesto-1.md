@@ -3,6 +3,10 @@ layout: post
 author: T.C. Howitt
 title: A biblical assessment of the Humanist Manifesto, Part 1
 passage: 1 Corinthians 2:14
+source:
+    name: The American Humanist Association
+    url: https://americanhumanist.org/what-is-humanism/manifesto3/
+    headline: "Humanism and Its Aspirations: Humanist Manifesto III, a Successor to the Humanist Manifesto of 1933"
 image:
     feature: articles/2016-11-21-humanist-manifesto/humanism.png
 comments: false
@@ -20,7 +24,7 @@ In the Bible, Paul the apostle warns, "Beware lest any man spoil you through phi
 
 In that spirit, this series of posts seeks to shed light on this benighted movement by comparing it to biblical teachings. Humanism is darkness disguised as enlightenment, just as Satan masquerades as an angel of light (2 Corinthians 11:14). Hearing the word preached, some will come to faith and see the light, but many more will remain in the dark. The apostle John, describing Jesus as the true Light says, "In him was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not" (John 1:4-5). Those who God has not drawn to Him simply won't get it, but for those who believe, preaching is the power of God to save.
 
-In this first part, I'm going to annotate only the opening sentence of the Humanist Manifesto, found [here](https://americanhumanist.org/what-is-humanism/manifesto3/){:target="_blank"}. By going through this false doctrine line by line and connecting it to the Bible, this is like expository preaching turned inside-out. I hope it sheds some light.
+In this first part, I'm going to annotate only the opening sentence of the Humanist Manifesto. By going through this false doctrine line by line and connecting it to the Bible, this is like expository preaching turned inside-out. I hope it sheds some light.
 
 The Humanist Manifesto begins (with my annotations noted in brackets),
 
