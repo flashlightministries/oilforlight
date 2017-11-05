@@ -50,11 +50,11 @@ On November 18, 2017, the Arizona chapter of The Satanic Temple will be hosting 
 
 * Beliefs should conform to our best scientific understanding of the world. We should take care never to distort scientific facts to fit our beliefs.
 
-What constitutes "our best scientific understanding of the world?"  Shall we submit to a judge or a jury to decide these matters, and if we do, won't their decisions necessarily offend the freedoms of those who disagree?  What's the difference between a "scientific fact" and a "belief?"
+What constitutes "our best scientific understanding of the world?"  Shall we submit to a judge or a jury of "our best" scientists to decide these matters, and if we do, won't their decisions necessarily offend the freedoms of those who disagree?  What's the difference between a "scientific fact" and a "belief?"
 
 * People are fallible. If we make a mistake, we should do our best to rectify it and resolve any harm that may have been caused.
 
-What qualifies as doing "our best to rectify [mistakes]?"  Who defines "any harm that may have been caused?"  This tenet implies that the perpetrator of the harm is responsible for defining it (Judges 21:25).
+What qualifies as doing "our best to rectify [our mistakes]?"  Who defines "any harm that may have been caused?"  This tenet implies that the perpetrator of the harm is responsible for defining it (Judges 21:25).
 
 * Every tenet is a guiding principle designed to inspire nobility in action and thought. The spirit of compassion, wisdom, and justice should always prevail over the written or spoken word
 
