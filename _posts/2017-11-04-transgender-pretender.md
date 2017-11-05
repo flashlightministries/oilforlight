@@ -14,7 +14,7 @@ comments: false
 
 The difference between cross-dressing and full "gender reassignment surgery" is only a matter of degree: presenting a false appearance by putting on deceptive makeup, clothes and accessories or by mutilating the flesh.  It's always a lie, an illusion, and one that can even fool the wearer as assuredly as the observer.
 
-Having a womb transplanted into a man does not transform him into a woman, but it does introduce a new twist on the abortion issue: men will soon be able to defend aborting children by chanting, "My Uterus My Choice."  Is this progress?
+Having a womb transplanted into a man does not transform him into a woman, but it does introduce a new twist on the abortion issue: men will soon be able to defend aborting children by chanting, "[My Uterus My Choice](https://www.google.com/search?q=my+uterus+my+choice&tbm=isch){:target="_blank"}."  Is this progress?
 
 Fundamentally speaking, however, none of this is new.  The Deuteronomic Code of the Israelites restricted transvestites from the priesthood, saying cross-dressers "are abomination unto the Lord thy God" (Deu 23:1).  Certain men in the ancient world had their testicles crushed and their penises cut off, sometimes in worship to heathen deities (Deu 23:1).
 
