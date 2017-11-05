@@ -20,7 +20,7 @@ THERE ARE SEVEN FUNDAMENTAL TENETS.
 
 As any psychopath knows, reason alone does not lead to compassion and empathy.  Quite the contrary: reason without God's grace leads to selfish and antisocial behaviors.
 
-"One should strive [to do good]..." and one will quickly fail, over and over.  This is self-evident.  Read Romans 3:10-19.
+"One should strive [to do good]..." and one will soon fail, over and over.  This is self-evident, but some people deeply in love with themselves may yet need some gentle coaxing to be honest with themselves.  Read Romans 3:10-19.
 
 * The struggle for justice is an ongoing and necessary pursuit that should prevail over laws and institutions.
 
