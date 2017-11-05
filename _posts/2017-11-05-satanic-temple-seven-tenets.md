@@ -56,7 +56,9 @@ What constitutes "our best scientific understanding of the world?"  Shall we sub
 
 What qualifies as doing "our best to rectify [our mistakes]?"  Who defines "any harm that may have been caused?"  This tenet implies that the perpetrator of the harm is responsible for defining it (Judges 21:25).
 
-* Every tenet is a guiding principle designed to inspire nobility in action and thought. The spirit of compassion, wisdom, and justice should always prevail over the written or spoken word
+* Every tenet is a guiding principle designed to inspire nobility in action and thought. The spirit of compassion, wisdom, and justice should always prevail over the written or spoken word.
+
+Let's not let words get in our way as we pursue "nobility in action and thought!"
 
 For someone who denies supernaturalism, exactly what is the materialist definition of "the spirit of compassion, wisdom and justice?"  Christian theology does not deny that unbelievers know in their hearts the existence of these transcendent truths -- in fact, the Bible affirms that they know (Romans 2:14-15) -- but the materialist worldview is woefully incapable of accounting for it.  The Satanic Temple must steal from the Christian worldview ("the spirit of compassion, wisdom, and justice") in order to assert moral order, because it's completely missing from their own.
 
