@@ -11,7 +11,7 @@ image:
 comments: false
 ---
 
-The difference between cross-dressing and full "gender reassignment surgery" is only a matter of degree: presenting a false appearance by putting on deceptive makeup, clothes and accessories or by mutilating the flesh.  It's always a lie, an illusion, and one that can even fool the wearer as assuredly as the observer.
+The difference between cross-dressing and full "gender reassignment surgery" is only a matter of degree: presenting a false appearance by putting on deceptive makeup, clothes and accessories is functionally equivalent to mutilating the flesh.  It's always a lie, an illusion, and one that can sometimes fool the wearer as assuredly as the observer.
 
 Having a womb transplanted into a man does not transform him into a woman, but it does introduce a new twist on the abortion issue: men will soon be able to defend aborting children by chanting, "[My Uterus My Choice](https://www.google.com/search?q=my+uterus+my+choice&tbm=isch){:target="_blank"}."  Is this progress?
 
