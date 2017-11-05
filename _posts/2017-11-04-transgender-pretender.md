@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T.C. Howitt
-title: Transgender pretender
+title: The transgender pretender
 source:
     name: The Telegraph
     url: http://www.telegraph.co.uk/news/2017/11/04/babies-born-transgender-mothers-could-happen-tomorrow-fertility/
