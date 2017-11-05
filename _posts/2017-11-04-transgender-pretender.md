@@ -21,7 +21,7 @@ Illusions have always been the tools of the trade for sorcerers and pagan cultis
 
 *Pretend* literally means "to stretch out in front of," like wearing a false skin, or dressing up a corpse and laying it out for presentation.
 
-These days, we use the word *pretend* for a child playing make-believe.  Check out [this commercial](https://www.popsugar.com/moms/Halloween-Commercial-About-Gender-Nonconformity-44185728){:target="_blank"} normalizing "gender nonconformity" in children, in fact praising cross-dressing children as heroes in their parents' eyes.
+These days, we use the word *pretend* for children playing make-believe.  Check out [this commercial](https://www.popsugar.com/moms/Halloween-Commercial-About-Gender-Nonconformity-44185728){:target="_blank"} normalizing "gender nonconformity" in children, in fact praising cross-dressing children as heroes in their parents' eyes.
 
 Children think and do weird things because they're still developing.  Parents need to help direct the paths of their children, not sit back and marvel at their confused expressions of gender fluidity.
 
