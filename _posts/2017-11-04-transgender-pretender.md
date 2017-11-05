@@ -19,7 +19,7 @@ Fundamentally speaking, however, none of this is new.  The Deuteronomic Code of 
 
 Illusions have always been the tools of the trade for sorcerers and pagan cultists "who changed the truth of God into a lie, and worshipped and served the creature more than the Creator" (Rom 1:25a).  The creatures typically worshipped often have transgender attributes representing naturalistic duality, evidenced in Gnostic, Baphometic and Hindu idols, all in denial of God's order from the beginning to have one man and one woman united in marriage (Mat 19:4-6).
 
-*Pretend* literally means "to stretch out in front of," like wearing a false skin, or dressing up and laying out a corpse for presentation.
+*Pretend* literally means "to stretch out in front of," like wearing a false skin, or dressing up a corpse and laying it out for presentation.
 
 These days, we use the word *pretend* for a child playing make-believe.  Check out [this commercial](https://www.popsugar.com/moms/Halloween-Commercial-About-Gender-Nonconformity-44185728){:target="_blank"} normalizing "gender nonconformity" in children, in fact praising cross-dressing children as heroes in their parents' eyes.
 
