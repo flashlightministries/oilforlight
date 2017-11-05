@@ -15,7 +15,7 @@ The difference between cross-dressing and full "gender reassignment surgery" is 
 
 Having a womb transplanted into a man does not transform him into a woman, but it does introduce a new twist on the abortion issue: men will soon be able to defend aborting children by chanting, "[My Uterus My Choice](https://www.google.com/search?q=my+uterus+my+choice&tbm=isch){:target="_blank"}."  Is this progress?
 
-Fundamentally speaking, however, none of this is new.  The Deuteronomic Code of the Israelites restricted transvestites from the priesthood, saying cross-dressers "are abomination unto the Lord thy God" (Deut 23:1).  Certain men in the ancient world had their testicles crushed and their penises cut off, sometimes in worship to heathen deities (Deut 23:1).
+Fundamentally speaking, however, none of this is new.  The Deuteronomic Code of the Israelites restricted transvestites from the priesthood, saying cross-dressers "are abomination unto the Lord thy God" (Deut 22:5).  Certain men in the ancient world had their testicles crushed and their penises cut off, sometimes in worship to heathen deities (Deut 23:1).
 
 Illusions have always been the tools of the trade for sorcerers and pagan cultists "who changed the truth of God into a lie, and worshipped and served the creature more than the Creator" (Rom 1:25a).  The creatures typically worshipped often have transgender attributes representing naturalistic duality, evidenced in Gnostic, Baphometic and Hindu idols, all in denial of God's order from the beginning to have one man and one woman united in marriage (Mat 19:4-6).
 
