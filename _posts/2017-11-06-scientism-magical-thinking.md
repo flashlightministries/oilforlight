@@ -16,4 +16,6 @@ First, on a new compound theorized to be responsible for transforming inorganic 
 
 Second, [Stephen Hawking says](https://www.forbes.com/sites/johnkoetsier/2017/11/06/stephen-hawking-issues-stern-warning-on-ai-could-be-worst-thing-for-humanity/#24aee153a7c0){:target="_blank"}, "AI could develop a will of its own."
 
-Their blind faith in macroevolutionary theory necessarily divorces them from reality and leads them to believe that fairy tales can come true, sometimes for good (life out of dead matter) sometimes for evil (AI developing into consciousness).
+Their blind faith in macroevolutionary theory necessarily divorces them from reality and leads them to believe that fairy tales can come true, sometimes for good (all life arising out of dead matter by chance), sometimes for evil (AI developing a consciousness and destroying us).
+
+It seems as if these spiritually-deprived souls were sent to bed reading godless fairy tales and never woke up.
