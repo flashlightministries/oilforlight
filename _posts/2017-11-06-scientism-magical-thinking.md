@@ -8,7 +8,7 @@ image:
 comments: false
 ---
 
-Fairy tales and sci-fi rule the minds of our "best and brightest," who are always quick to disparage the biblical worldview as fantasy.  Psychologists call this behavior *projection*, but the Bible calls it *idolatry*.
+Fairy tales and sci-fi rule the imaginations of our "best and brightest," who are always quick to disparage the biblical worldview as fantasy.  Psychologists call this behavior *projection*, but the Bible calls it *idolatry*.
 
 Two examples of magical thinking emerged today, showing again that scientism is anything but scientific.
 
