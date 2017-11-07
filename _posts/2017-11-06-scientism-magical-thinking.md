@@ -12,7 +12,7 @@ Fairy tales and sci-fi rule the imaginations of our "best and brightest," who ar
 
 Two examples of magical thinking emerged today, showing again that scientism is anything but scientific.
 
-First, on a new compound theorized to be responsible for transforming inorganic matter into life, the [senior study author says](https://futurism.com/scientists-may-have-found-the-chemical-compound-that-started-life/){:target="_blank"}, "It reminds me of the Fairy Godmother in Cinderella, who waves a wand and ‘poof,’ ‘poof,’ ‘poof,’ everything simple is transformed into something more complex and interesting."
+First, on a new compound theorized to be responsible for transforming lifeless matter into life, the [senior study author says](https://futurism.com/scientists-may-have-found-the-chemical-compound-that-started-life/){:target="_blank"}, "It reminds me of the Fairy Godmother in Cinderella, who waves a wand and ‘poof,’ ‘poof,’ ‘poof,’ everything simple is transformed into something more complex and interesting."
 
 Second, [Stephen Hawking says](https://www.forbes.com/sites/johnkoetsier/2017/11/06/stephen-hawking-issues-stern-warning-on-ai-could-be-worst-thing-for-humanity/#24aee153a7c0){:target="_blank"}, "AI could develop a will of its own."
 
