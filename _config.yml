@@ -93,7 +93,7 @@ sass:
 
 permalink:   /:categories/:title
 
-include: [".htaccess"]
+include: [".htaccess", "_random"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
 
 gems: [jekyll-paginate, jekyll-watch]
