@@ -10,7 +10,7 @@ comments: false
 permalink: "/atheist-chicagonow-1"
 ---
 
-(**Note**: I use the word *God*, capital 'G', to refer to the one living God of the Bible, the coeternal Godhead of the Father, the Son and the Holy Spirit.)
+(**Note**: I use the word *God*, with a capital 'G', to refer to the one living God of the Bible, the coeternal Godhead of the Father, the Son and the Holy Spirit.)
 
 Is it insane to believe in a jealous God?  The only point of this atheist's disjointed and self-congratulatory blog post is to hammer on the assertion that Christians are insane for believing in God and that he is sane for rejecting Him.
 
