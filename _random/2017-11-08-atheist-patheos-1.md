@@ -3,6 +3,7 @@ layout: post
 author: T.C. Howitt
 title: Responding to an atheist
 comments: false
+permalink: "/atheist-patheos-1"
 ---
 
 We were talking about proof, evidence and the existential viability of spirit from a materialist perspective -- and now you've jumped to well-worn hobbyhorse of questioning God's righteousness based on Mosaic law.
