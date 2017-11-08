@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T.C. Howitt
-title: Refutation of a rambling atheist
+title: Refutation of a faithful atheist
 source:
     name: ChicagoNow
     url: http://www.chicagonow.com/an-atheist-in-illinois/2017/11/a-jealous-god-is-insane/
