@@ -18,11 +18,11 @@ Let's dispense with the layman's clinical diagnosis of the mental health of Chri
 
 The atheist says, "The Second Commandment declares that god is a jealous god. How can this insanity be ignored? Would the sole creator of life and billions of galaxies really need a bunch of gnats stroking his ego? Is it more likely that a jealous god created jealous men, or jealous men created a jealous god? I have to go with the latter."
 
-Atheists are fond of inventing their own hypothetical gods and then judging their worthiness, inevitably settling with one idol to worship: themselves.  Here we have an atheist inventing a god who needs "a bunch of gnats stroking his ego," and in addition to judging this god unworthy, he decides that this invented god was invented by men.  This argument is chasing its own tail, which is not only futile -- it's irrational.
+Atheists are fond of inventing their own hypothetical gods and then judging their worthiness, inevitably settling on one idol to worship: themselves.  Here we have an atheist inventing a god who needs "a bunch of gnats stroking his ego," and in addition to judging this god unworthy, he decides that this invented god was invented by men.  This argument is chasing its own tail, which is not only futile -- it's irrational.
 
 Let's tear apart this straw god who needs "a bunch of gnats stroking his ego" by comparing it to the true and living God.
 
-God does not have an *ego*, a theoretical construct invented for the Freudian model of the human psyche.  Assigning an ego to God will indeed help an atheist dismiss Him as created by men in their own image.
+God does not have an *ego*, a theoretical construct invented to serve the Freudian model of the human psyche.  Assigning an ego to God will indeed help an atheist dismiss Him as created by men in their own imaginations.
 
 God doesn't *need* anything we can give Him.  He said, "If I were hungry, I would not tell thee:
 for the world is mine, and the fulness thereof" (Psa 50:12).
