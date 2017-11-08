@@ -10,7 +10,7 @@ We were talking about proof, evidence and the existential viability of spirit fr
 
 We'll go ahead and follow this new direction, since it may edify others.
 
-> You argue that 'God's moral law', the only true ('transcendent' and absolute) morality, derives from the bible. Which must mean you feel free to keep slaves, and stone to death those who have sex when the woman is menstruating; that you are obliged to murder homosexuals, uppity teenagers and those who worship other gods; that you don't work on the Sabbath (Friday evening to Saturday afternoon), and so on and so forth.
+You said, "You argue that 'God's moral law', the only true ('transcendent' and absolute) morality, derives from the bible. Which must mean you feel free to keep slaves, and stone to death those who have sex when the woman is menstruating; that you are obliged to murder homosexuals, uppity teenagers and those who worship other gods; that you don't work on the Sabbath (Friday evening to Saturday afternoon), and so on and so forth."
 
 Jesus said, "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil" (Mat 5:17).
 
