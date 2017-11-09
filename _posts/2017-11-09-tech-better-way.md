@@ -40,4 +40,6 @@ Soon after physicists like Leo Szilard and Albert Einstein theorized that a chai
 
 We're unruly kids with big dangerous toys, and we're operating as if our Father hasn't given us instruction in righteousness.  We build towers of Babel all over the place, but we very rarely seek the blueprints for making a tabernacle for God in our hearts.  Only with the Holy Spirit indwelling us will we have the proper motivation behind the things we make and share with each other: doing everything for the glory of God -- by loving Him with all our heart, soul, mind and strength -- and for serving the purpose that flows from that love: to love our neighbors as ourselves.
 
+We are currently serving as technological captives, slaves to the sociopathic demands of technology, and we're suffering greatly because of it. What I'm suggesting is christological oversight of technology, a freewill choice to put Christ's desires ahead of our technical desires.
+
 Jesus Christ is a very real and practical answer to the worst problems we face today, from industrial defilement of our habitat to manipulation of our kids through social media.  If we can only recognize Christ as the one Lord and master over our lives, He will direct our paths and keep us from harming ourselves.
