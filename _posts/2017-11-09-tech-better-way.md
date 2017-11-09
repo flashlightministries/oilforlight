@@ -20,7 +20,7 @@ Pay attention to the wording there about good people and good intentions.  From 
 
 What is missing from the technological impulse?  Love, by which I mean a particular kind of love described in the Bible.  I'm not talking about erotic love, which can be good (in marriage) or bad (in porn), nor am I talking about brotherly love, which is limited to familial and community relationships of friends and partners.  I'm talking about godly love, which can only come from above: the caring love for all people, even our enemies, that results from knowing that God loved us even when we were His enemies.
 
-Paul said, "Let all your things be done with charity" (1Co 16:14).  The word *charity* here does not mean only giving stuff away to the poor, as we use it today, but as its Latin etymology from *caritas* describes, it means a costly, merciful compassion for everyone as dearly valuable creatures of God.
+Paul said, "Let all your things be done with charity" (1Co 16:14).  The word *charity* here does not mean only giving stuff away to the needy (1Co 13:3 makes this clear), as we use the word today, but as its Latin etymology from *caritas* describes, it means a costly, merciful compassion for everyone as dearly valuable creatures of God.
 
 Paul restated this instruction about how we should do all things, which helps us understand what kind of love he's talking about.
 
