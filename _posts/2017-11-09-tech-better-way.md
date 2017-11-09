@@ -6,7 +6,7 @@ passage: 1 Corinthians 16:14
 source:
     name: Axios
     url: https://www.axios.com/sean-parker-unloads-on-facebook-2508036343.html
-    headline: "Sean Parker unloads on Facebook "exploiting" human psychology"
+    headline: 'Sean Parker unloads on Facebook "exploiting" human psychology'
 image:
     feature: articles/2017-11-09-tech-better-way/unlike.png
 comments: false
