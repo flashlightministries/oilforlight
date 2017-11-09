@@ -12,8 +12,6 @@ image:
 comments: false
 ---
 
---------
-
 The founding president of Facebook, Sean Parker, says that they consciously built a system that exploits human vulnerability.
 
 One tech investor has [said](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia){:target="_blank"}, "The people who run Facebook and Google are good people, whose well-intentioned strategies have led to horrific unintended consequences."
