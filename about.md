@@ -30,8 +30,6 @@ Believers are pressed like olives to produce the oil of the Holy Spirit, which i
 
 Jesus said to His disciples, "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you" (Mat 28:19-20).
 
-God willing, the articles I write on this blog are expressions of the Holy Spirit dwelling within me.  I rely on the light of God's word to illuminate the one true way so I may show it to others.
-
 ### Contact
 
   * **Email:** [tc@flmin.org](mailto:tc@flmin.org){:target="_blank"}
