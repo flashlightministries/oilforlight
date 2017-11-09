@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T.C. Howitt
-title: "Look Ma - No intelligence"
+title: "Look Ma - no intelligence"
 passage: 
 source:
     name: MIT Technology Review
@@ -12,15 +12,15 @@ image:
 comments: false
 ---
 
-(Just look at that image: a gaggle of reporters fawning over the city's new self-driving shuttle while a giant mechanical praying mantis looms over them.)
+(Just look at that image: a gaggle of reporters and eager riders fawning over the city's new self-driving shuttle while a giant mechanical praying mantis looms over them.  Ominous, yes?)
 
 A self-driving bus get into an accident within 2 hours of its maiden voyage and humans get the blame.
 
-[Headline](https://www.reviewjournal.com/local/local-las-vegas/downtown/human-at-fault-in-accident-with-las-vegas-driverless-shuttle/){:target="_blank"}: "Human at fault in accident with Las Vegas driverless shuttle"
+[Headline](https://www.reviewjournal.com/local/local-las-vegas/downtown/human-at-fault-in-accident-with-las-vegas-driverless-shuttle/){:target="_blank"}: *Human at fault in accident with Las Vegas driverless shuttle*
 
-[Headline](http://www.cbc.ca/news/technology/driverless-shuttle-bus-1.4205079){:target="_blank"}: "Human blamed in self-driving shuttle bus collision"
+[Headline](http://www.cbc.ca/news/technology/driverless-shuttle-bus-1.4205079){:target="_blank"}: *Human blamed in self-driving shuttle bus collision*
 
-[Headline](http://www.nydailynews.com/news/national/self-driving-bus-accident-day-las-vegas-article-1.3621441){:target="_blank"}: "Self-driving bus gets into accident on its first day in Las Vegas, human driver blamed for collision"
+[Headline](http://www.nydailynews.com/news/national/self-driving-bus-accident-day-las-vegas-article-1.3621441){:target="_blank"}: *Self-driving bus gets into accident on its first day in Las Vegas, human driver blamed for collision*
 
 The city has issued a statement saying, "The shuttle did what it was supposed to do."
 
