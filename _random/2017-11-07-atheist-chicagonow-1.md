@@ -3,7 +3,7 @@ layout: post
 author: T.C. Howitt
 title: Refutation of a faithful atheist
 source:
-    name: ChicagoNow
+    name: Atheist U on ChicagoNow
     url: http://www.chicagonow.com/an-atheist-in-illinois/2017/11/a-jealous-god-is-insane/
     headline: A Jealous God is insane
 comments: false
