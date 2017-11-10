@@ -1024,14 +1024,10 @@ div.pagination {
     visibility: hidden;
 }
 
-div.page-nav {
-  display: table-cell;
-  vertical-align: middle;
-}
-
 div.page-nav span {
   display: inline-block;
   width: 45%;
+  vertical-align: middle;
 }
 
 div.page-nav span.align-right {
