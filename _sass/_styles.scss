@@ -1040,10 +1040,13 @@ div.page-nav span.align-right {
 }
 
 div.page-nav span.align-left span.arrow {
-  margin-right: 10px;
   width: auto;
 }
 
-div.page-nav span.align-right span.arrow {
+div.page-nav span.align-left span.arrow i {
+  margin-right: 10px;
+}
+
+div.page-nav span.align-right span.arrow i {
   margin-left: 10px;
 }
