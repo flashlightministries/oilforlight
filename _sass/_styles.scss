@@ -1031,12 +1031,8 @@ div.page-nav span {
 }
 
 div.page-nav span span {
-  width: auto;
-  display: block;
-}
-
-div.page-nav span span.arrow {
-  width: auto;
+  display: table-cell;
+  width: 100%;
 }
 
 div.page-nav span.align-right {
