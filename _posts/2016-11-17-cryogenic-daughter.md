@@ -1,7 +1,7 @@
 ---
 layout: post
 author: T.C. Howitt
-title: "You can now abort your kids or cryonically preserve them - it's the mother's choice"
+title: "Mothers can now abort their kids or cryonically preserve them - her choice"
 passage: John 11:25
 source:
     name: BBC News
