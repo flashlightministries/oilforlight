@@ -22,7 +22,7 @@ Preachers will be mocked and hated in Jesus' name.
 
 Associating oneself with Christ has always been burdensome.  Jesus said, "Think not that I am come to send peace on earth: I came not to send peace, but a sword" (Mat 10:34).  He meant that His word would divide believers from unbelievers, even to separate family members.  Indeed, Christians are called to separate themselves from worldly habits and the people who revel in those activities (1Jo 2:15).
 
-The mark of a false preacher is being loved by the world.  Preaching the cross is a flesh-killer, just as God intended, breaking down the preacher while God builds him back up.  Unfortunately, while the spirit is strong, sometimes the [weakness of our flesh](https://thefederalist.com/2017/11/06/hillsong-pastor-carl-lentz-provides-moral-cover-abortion-view/){:target="_blank"} takes precedence over preaching God's word, and we submit to the world's desires rather than bearing its hostile rejection.
+The mark of a false preacher is being loved by the world.  Preaching the cross is a flesh-killer, just as God intended, breaking down the preacher while God builds him back up.
 
 I know it can be hard to share the true gospel.  People hate God's word because they hate God and the truth about God (even while they don't *realize* that fact), and they would rather have you just shut up already so they can continue in their wicked ways unimpeded (Mat 10:22).
 
