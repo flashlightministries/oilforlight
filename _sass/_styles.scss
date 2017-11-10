@@ -1035,10 +1035,15 @@ div.page-nav span span {
   width: 100%;
 }
 
+div.page-nav span.align-right {
+  text-align: right;
+}
+
 div.page-nav span.align-left span.arrow {
+  margin-right: 10px;
   width: auto;
 }
 
-div.page-nav span.align-right {
-  text-align: right;
+div.page-nav span.align-right span.arrow {
+  margin-left: 10px;
 }
