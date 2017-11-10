@@ -36,7 +36,7 @@ God makes the impossible possible, and the faith of believers proves it, to them
 
 This is a trial for believers.  God, in His wisdom, catches the wise in their own craftiness this way: it pleases God to save people through the foolishness of preaching so that nobody can take pride in finding their own way to Him.
 
-The war cry of humanists is, "I'm good without God." Chances are, the humanist who believes this mantra is doing pretty well on their own in the world without acknowledging God.  God intervenes in the lives of the poor, the disenfranchised, the convicted criminals and the sick not because He will heal them now and bring them prosperity in the world, but because they already know they're broken and cannot do good.  So God offers them something better than the world, something they could never achieve on their own: inheritance in the kingdom to come.
+The war cry of humanists is, "I'm [good without God](https://americanhumanist.org/about/){:target="_blank"}." Chances are, the humanist who believes this mantra is doing pretty well on their own in the world without acknowledging God.  God intervenes in the lives of the poor, the disenfranchised, the convicted criminals and the sick not because He will heal them now and bring them prosperity in the world, but because they already know they're broken and cannot do good.  So God offers them something better than the world, something they could never achieve on their own: inheritance in the kingdom to come.
 
 That's why Jesus said, "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God" (Mat 19:24).
 
