@@ -1024,11 +1024,16 @@ div.pagination {
     visibility: hidden;
 }
 
-.page-nav span {
+div.page-nav {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+div.page-nav span {
   display: inline-block;
   width: 45%;
 }
 
-.page-nav span.align-right {
+div.page-nav span.align-right {
   text-align: right;
 }
