@@ -1031,7 +1031,8 @@ div.page-nav span {
 }
 
 div.page-nav span span {
-  width: 100%;
+  width: auto;
+  display: block;
 }
 
 div.page-nav span span.arrow {
