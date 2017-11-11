@@ -1025,11 +1025,9 @@ div.pagination {
     visibility: hidden;
 }
 
-div.page-nav:before {
-  content: "";
-  display: inline-block;
-  vertical-align: middle;
-  height: 100%;
+div.page-nav {
+  display: flex;
+  align-items: center;
 }
 
 div.page-nav span {
