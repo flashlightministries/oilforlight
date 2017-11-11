@@ -12,7 +12,7 @@ And you know, you deserve worse than any punishment they can deliver.
 
 While the world turns against you, the mercy of God is steady and sure. As assuredly as hellfire awaits unregenerate sinners, God waits patiently for all His children to come to repentance.
 
-Not all of you have confessed to your crimes, and some of you still maintain your innocence. That needs to change.  No one is innocent, and you have no excuse. You have a sin problem, just like everyone else. Our sins inflict collateral damage on other people, creating a feedback loop, a chain reaction of wickedness. We're all caught in the web of sin.
+Not all of you have confessed your crimes, and some of you still maintain your innocence. That needs to change.  No one is innocent, and you have no excuse. You have a sin problem, just like everyone else. Our sins inflict collateral damage on other people, creating a feedback loop, a chain reaction of wickedness. We're all caught in the web of sin.
 
 This may be the darkest moment of your lives, but let me assure you that we're all darkened by sin.  In our hearts, we're all wicked, every single one of us. By nature, we're all perverts at heart, turned away from the truth of God.  We're all murderers at heart, kept from committing heinous acts only by the grace of God.
 
