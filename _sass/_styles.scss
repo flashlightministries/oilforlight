@@ -1032,7 +1032,8 @@ div.page-nav {
 
 div.page-nav span {
   display: inline-block;
-  height: 100%;
+  height: auto;
+  min-height: 100% !important;
   width: 50%;
   vertical-align: middle;
 }
