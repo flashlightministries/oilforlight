@@ -1025,9 +1025,12 @@ div.pagination {
     visibility: hidden;
 }
 
+div.page-nav {
+  overflow:auto;
+}
+
 div.page-nav span {
   display: inline-block;
-  height: 100%;
   width: 50%;
   vertical-align: middle;
 }
