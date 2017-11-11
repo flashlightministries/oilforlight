@@ -30,7 +30,7 @@ Only Jesus Christ accomplishes true recovery by lifting up the fallen.  Forget a
 
 1. Repent and believe in Jesus Christ and you will be saved.
 
-That's the one step to recovery.
+That's the one step to recovery, and once taken, it will never fail.  Yes, you will have troubles in this world, but take heart, because your Lord has overcome the world.
 
 I can't promise that Christians will welcome you with open arms.  As individuals, we're all broken by past abuse and sins of our own, and many of us feel a burden to protect ourselves and our families from potential threats. People will not necessarily find the strength within themselves to forgive you, but God certainly will, and by the power of the Holy Spirit some Christians will too.
 
