@@ -1027,18 +1027,19 @@ div.pagination {
 
 div.page-nav span {
   display: inline-block;
+  height: 100%;
   width: 50%;
   vertical-align: middle;
-}
-
-div.page-nav span span {
-  display: table-cell;
-  width: 100%;
 }
 
 div.page-nav span.align-right {
   text-align: right;
   float: right;
+}
+
+div.page-nav span span {
+  display: table-cell;
+  width: 100%;
 }
 
 div.page-nav span span.arrow {
