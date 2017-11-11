@@ -22,7 +22,7 @@ That's not an excuse.  It's abhorrent and intolerable, and we all deserve hell r
 
 That's the bad news, and here's the crucial good news given to believers in Jesus Christ:
 
-> And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God (1Co 6:11).
+> And such **were** some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God (1Co 6:11).
 
 Some of you have checked into rehab facilities for sex addiction, and some of you say you're seeking treatment.  What in the world does that even mean?  If the name of your treatment center contains a word beginning with "psych-," then you're heading into a spiritual cul-de-sac of pseudoscientific quackery. Turn back and seek the better way.
 
