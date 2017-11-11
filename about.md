@@ -26,9 +26,9 @@ So what does the oil represent?
 
 God said to Moses, "Thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always" (Exo 27:20).
 
-Believers are pressed like olives to produce the oil of the Holy Spirit, which is to say they are commanded to preach the teachings of Jesus Christ that they're given by grace.
+Believers are pressed like olives to produce the oil of the Holy Spirit, which is to say they are commanded to preach the teachings of Jesus Christ that they're given by grace.  Jesus said to His disciples,
 
-Jesus said to His disciples, "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you" (Mat 28:19-20).
+> Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you (Mat 28:19-20).
 
 ### Contact
 
