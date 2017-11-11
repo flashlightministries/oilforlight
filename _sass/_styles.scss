@@ -1025,9 +1025,11 @@ div.pagination {
     visibility: hidden;
 }
 
-div.page-nav {
-  display:block;
-  overflow:auto;
+div.page-nav:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
 }
 
 div.page-nav span {
