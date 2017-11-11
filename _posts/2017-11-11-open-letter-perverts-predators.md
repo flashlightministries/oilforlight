@@ -6,7 +6,7 @@ passage: 1Co 6:11
 comments: false
 ---
 
-It must seem like hell on earth for you right now. Your shining careers have crashed in flames. The same world that has lauded and celebrated your work all these years is now turning against you.  Your communities of fans, friends and loved ones are now transformed into torch-wielding mobs because you've let them down, you've failed to live up to their expectations, your past crimes have come to light and revealed the sickness dwelling in your hearts.
+It must seem like hell on earth for you right now. Your shining careers have crashed and burned. The same world that has lauded and celebrated your work all these years is now turning against you.  Your communities of fans, friends and loved ones are now transformed into torch-wielding mobs because you've let them down, you've failed to live up to their expectations, your past crimes have come to light and revealed the sickness dwelling in your hearts.
 
 And you know, you deserve worse than any punishment they can deliver.
 
