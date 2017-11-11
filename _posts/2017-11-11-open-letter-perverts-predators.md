@@ -6,11 +6,11 @@ passage: 1Co 6:11
 comments: false
 ---
 
-It must seem like hell on earth for you right now. Your careers are over. The same world that has lauded and celebrated your work all these years is now turning against you.  The world is fickle and vindictive.  Your communities of fans, friends and loved ones have become torch-wielding mobs of your worst enemies overnight because you've let them down, you've failed to live up to their expectations, your past crimes have come to light and revealed the sickness dwelling in your hearts.
+It must seem like hell on earth for you right now. Your shining careers have crashed in flames. The same world that has lauded and celebrated your work all these years is now turning against you.  Your communities of fans, friends and loved ones are now transformed into torch-wielding mobs because you've let them down, you've failed to live up to their expectations, your past crimes have come to light and revealed the sickness dwelling in your hearts.
 
 And you know, you deserve worse than any punishment they can deliver.
 
-While the world turns against you, the mercy of God is steady and sure. As assuredly as hellfire awaits unregenerate sinners, God waits patiently for all His children to come to repentance.
+While this fickle and vindictive world turns against you, the mercy of God is steady and sure. As assuredly as hellfire awaits unregenerate sinners, God waits patiently for all His children to come to repentance.
 
 Not all of you have confessed your crimes, and some of you still maintain your innocence. That needs to change.  No one is innocent, and you have no excuse. You have a sin problem, just like everyone else. Our sins inflict collateral damage on other people, creating a feedback loop, a chain reaction of wickedness. We're all caught in the web of sin.
 
