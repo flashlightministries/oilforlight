@@ -2,6 +2,7 @@
 
 body {
   font-family: $serif;
+  font-kerning: none;
   color: $black;
   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
   -moz-osx-font-smoothing: grayscale; /* Fix for Mozilla */
