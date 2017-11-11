@@ -34,4 +34,5 @@ Believers are pressed like olives to produce the oil of the Holy Spirit, which i
 
   * **Email:** [tc@flmin.org](mailto:tc@flmin.org){:target="_blank"}
   * **Facebook:** [TC Howitt](http://facebook.com/whirlingvortices){:target="_blank"}
-  * ![](http://oilforlight.com/images/profile.jpg)
+  
+  <img src="http://oilforlight.com/images/profile.jpg" style="width: 200px;"/>
