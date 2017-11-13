@@ -2,7 +2,7 @@
 layout: post
 author: T.C. Howitt
 title: Responding to an atheist
-comments: false
+comments: true
 permalink: "/atheist-patheos-1"
 ---
 
