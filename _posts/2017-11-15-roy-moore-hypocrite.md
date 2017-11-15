@@ -3,7 +3,7 @@ layout: post
 author: T.C. Howitt
 title: Yes, Roy Moore is a hypocrite 
 source:
-    name: Alternet
+    name: AlterNet
     url: https://www.alternet.org/right-wing/roy-moores-behavior-perfectly-biblical-and-problem
     headline: "Alabama Conservatives Are Right: Roy Moore’s Behavior Is Perfectly Biblical—and That Is the Problem"
 comments: false
