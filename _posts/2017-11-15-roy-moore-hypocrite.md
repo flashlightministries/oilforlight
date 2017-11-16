@@ -29,4 +29,4 @@ An article published on AlterNet and Salon contains a number of standard Bible-b
 
 ### Note
 
-Both AlterNet and Salon have removed this article from their comments sections.  I really can't blame them -- they have the ability to silence my response as inappropriate for their respective venues -- and they're right: these outlets are for propagating and securing the secular worldview, not for proclaiming the word of God.  They face the very real threat of lost advertising revenue if their readership is turned off by all this biblical talk.
+Both AlterNet and Salon have removed the contents of this article from their respective comments sections.  On what grounds?  Spam?  Vulgarity?  Inappropriate material?  I really can't blame them -- they have the ability to silence my response as inappropriate for their respective venues -- and they're right: these outlets are for propagating and securing the secular worldview, not for proclaiming the word of God.  They face the very real threat of lost advertising revenue if their readership is turned off by all this biblical talk.
