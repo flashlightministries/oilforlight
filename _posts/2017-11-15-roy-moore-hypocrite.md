@@ -9,7 +9,7 @@ source:
 comments: false
 ---
 
-This article contains a number of standard Bible-blunders committed by unbelievers:
+This article contains a number of standard Bible-blunders committed by unbelievers.  Here's a refutation in 8 points.
 
 1. Every man in the Bible is shown to be a sinner except one: Jesus Christ.  It's a simple logical fallacy to assert that the bad behavior of people in the Bible describes the will of God.
 
