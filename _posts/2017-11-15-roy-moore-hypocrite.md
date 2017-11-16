@@ -26,7 +26,3 @@ An article published on AlterNet and Salon contains a number of standard Bible-b
 7. The Bible in general, and the gospel of Jesus Christ in particular, were not only progressive for their time, but liberating today.  I'm speaking of things like women's rights, abolition of slavery and nonviolence. Only an honest reading of scripture without cherry-picking will reveal this.  The Bible is, after all, for the benefit of believers, not unbelievers.
 
 8. Even unbelievers are given knowledge of God's moral law.  By grace, God has given everyone a sense of right and wrong (Rom 2:14-15).  Unbelievers are fond of claiming ownership of their morality, and they take pride in it, but they cannot account for its source -- and then they use that moral sense to judge God and the Bible.  They're upside-down.
-
-### Note
-
-Both AlterNet and Salon have removed the contents of this article from their respective comments sections.  On what grounds?  Spam?  Vulgarity?  Inappropriate material?  I really can't blame them -- they have the ability to silence my response as inappropriate for their respective venues -- and they're right: these outlets are for propagating and securing the secular worldview, not for proclaiming the word of God.  They face the very real threat of lost advertising revenue if their readership is turned off by all this biblical talk.
