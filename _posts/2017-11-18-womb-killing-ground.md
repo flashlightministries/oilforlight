@@ -41,7 +41,7 @@ Despite the rhetoric from freedom fighters everywhere, none of us are autonomous
 
 If one limiting factor to our autonomy is consideration for other people, nonetheless, this limit is often budged according to the rule of *might makes right*, which is the sad truth behind the popular calculus for abortion.  In the name of empowerment, presumably and ironically to correct a social injustice against women, we give mothers the power to kill the truly powerless ones who depend on them for everything.  We've taken the sacred and loving protection of the mother's womb and turned it into a killing ground.
 
-Pregnancy and motherhood are indeed seriously challenging responsibilities in all dimensions: physical, emotional, financial and social.  The Bible affirms the pain and struggle of motherhood.  God cursed Eve and all women after she ate of the tree of knowledge of good and evil:
+Pregnancy and motherhood are indeed seriously challenging responsibilities in all dimensions: physical, emotional, financial and social.  The Bible affirms the pain and struggle of motherhood.  God cursed Eve and all women after she ate of the tree of the knowledge of good and evil:
 
 "Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee" (Gen 3:16).
 
