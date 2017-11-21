@@ -52,3 +52,5 @@ The Satanic Temple, a secular humanist organization that fights against Christia
 God commands us to break down our altars to false idols, which are not gods at all but the work of our own hands, and to worship Him alone in Jesus Christ as the way, the truth and the life.
 
 Abortion is murder, and murder is a sin, but Jesus makes forgiveness available to all sinners. God is merciful enough and powerful enough to save even the worst of sinners. This really puts the *amazing* in **amazing grace**, and God, through His Son, offers it to all.
+
+If you have aborted your children, you need to know that God will forgive you, but it will cost you your idolatry.  To believe in Jesus Christ as your savior is to reject all the trappings of this world that you value as your life. Taking on Jesus is easy, but giving up your sin often proves impossible.  Only with the help of the Holy Spirit can you be brought to repentence, which is the gift of grace given to all who believe.  Will you believe in Jesus Christ today?  It's not up to you, but I pray that you will.  May God have mercy on your soul.
