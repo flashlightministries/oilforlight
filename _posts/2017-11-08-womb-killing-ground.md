@@ -4,7 +4,7 @@ author: T.C. Howitt
 title: Making the womb a killing ground
 passage: Jeremiah 32:35
 image:
-    feature: articles/2017-11-18-womb-killing-ground/molech.jpg
+    feature: articles/2017-11-08-womb-killing-ground/molech.jpg
 comments: false
 ---
 
