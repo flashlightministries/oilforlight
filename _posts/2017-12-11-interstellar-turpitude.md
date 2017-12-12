@@ -29,11 +29,9 @@ All of this leads me to think that searching for ETs is not only a waste, but an
 Stephen Hawking also thinks finding ETs could end badly for us, citing the horrors wrought by our own explorer-colonial history, but that's a pretty anthropocentric view. I rely on God for everything, very unlike the esteemed professor Hawking, and surprisingly we come to the same misgivings about aliens. But whereas I happen to take my convictions very seriously, Hawking seems soft in his, having founded the very same Breakthrough Listen program funded by the Russian billionaire quoted in this article. It reminds me of the grave reservations physicists like Albert Einstein had over atomic weapons, even as they helped to usher them in. Such is the nature of technology in the hands of the godless and aimless: If it can be done, it will be done, because it's just so technically *sweet*, which brings to mind the fruit of the tree of the knowledge of good and evil.
 
 > And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat... And the woman said, The serpent beguiled me, and I did eat.
-
->   -- Genesis 3:12-13
+> -- Genesis 3:12-13
 
 > It is my judgment in these things that when you see something that is technically sweet, you go ahead and do it and you argue about what to do about it only after you have had your technical success.
-
->   -- Robert Oppenheimer, credited as the "father of the atomic bomb"
+> -- Robert Oppenheimer, credited as the "father of the atomic bomb"
 
 Sin is a bomb exploding in slow motion, and it's given birth to an obsession with life in outer space. Fittingly, those who die in their sins will be granted exactly what they're seeking: everlasting existence in the outer darkness, separated from God.
