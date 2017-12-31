@@ -32,6 +32,6 @@ With regard to the Christian view of things, which would assert that mankind is 
 
 Now, here we witness the reversal of presuppositions that Darwinian evolution has accomplished. From the Christian perspective, it is Darwinian evolution that dwells in "the mists and vapors of philosophy" and it is belief in Jesus Christ that provides the "solid ground."
 
-Despite what your public teachers may have taught you, Darwinian evolution (and the rest of scientism) is philosophy, not science. As for the solid ground,
+Despite what your public school teachers may have taught you, Darwinian evolution (and the rest of scientism) is philosophy, not science. As for the solid ground,
 
 Jesus said, "Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like: he is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock" (Luke 6:47-48).
