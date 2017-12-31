@@ -4,7 +4,7 @@ author: T.C. Howitt
 title: Founded upon a rock
 passage: Luke 6:47-48
 source:
-    name: MIT Haystack Observatory
+    name: The MIT Haystack Observatory
     url: https://www.haystack.mit.edu/hay/staff/jball/etiy.pdf
     headline: "Extraterrestrial Intelligence: Where is Everybody?"
 comments: false
