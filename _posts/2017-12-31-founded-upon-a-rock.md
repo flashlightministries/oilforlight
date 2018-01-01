@@ -36,7 +36,7 @@ Back to the paper in focus, the scientist uses two words to describe our planet 
 
 With regard to ETs, this mindset leads directly to the assumption that we are probably not alone in the universe, and further, that ETs are probably more advanced than us, and further still, that they would view us as mere primitive animals, and finally, that they either don't care about us or they're just observing us without revealing themselves (Zoo theory, zoo theory! What a mind-blowing concept!).
 
-With regard to the Christian view of things, which would assert that mankind is special, unique, created in the image of God and taking part in His eternal plan, the scientist warns, "Now we must be wary of slipping off the craggy cliff edge that forms the boundary between the solid ground of science and the mists and vapors of philosophy and religion."
+With regard to the Christian view of things, which asserts that mankind is special, unique, created in the image of God and taking part in His eternal plan, this scientist warns, "Now we must be wary of slipping off the craggy cliff edge that forms the boundary between the solid ground of science and the mists and vapors of philosophy and religion."
 
 Now, here we witness the reversal of presuppositions that Darwinian evolutionary theory has accomplished. From the Christian perspective, it is Darwinian evolution that dwells in "the mists and vapors of philosophy" and it is belief in Jesus Christ that provides the "solid ground."
 
