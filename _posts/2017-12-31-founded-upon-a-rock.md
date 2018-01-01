@@ -12,7 +12,7 @@ image:
 comments: false
 ---
 
-Why the news is covering this paper from the 1980s and last revised in 2004 is beyond my comprehension, and I could say the same thing about all the UFO news coverage over the last couple weeks. According to [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&q=ufo){:target="_blank"}, searches for UFOs spikes every two years. It would be interesting to compare this trend to SETI funding cycles.
+Why the news is covering this paper from the 1980s and last revised in 2004 is beyond my comprehension, and I could say the same thing about all the UFO news coverage over the last couple weeks. According to [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&q=ufo){:target="_blank"}, searches for UFOs spike every two years. It would be interesting to compare this trend to SETI funding cycles.
 
 For whatever reason the topic gets attention in the first place, bloggers and journalists move in herds like cattle, so they all mindlessly follow the leader, changing around sentence structure to thwart the plagiarism-detecting bots. Information blight is what we have.
 
