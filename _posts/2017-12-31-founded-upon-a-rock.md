@@ -16,7 +16,9 @@ Why the news is covering this paper from the 1980s and last revised in 2004 is b
 
 For whatever reason the topic gets attention in the first place, bloggers and journalists move in herds like cattle, so they all mindlessly follow the leader, changing around sentence structure to thwart the plagiarism-detecting bots. Information blight is what we have.
 
-They all seem to be excited about the phrase "Zoo Theory." Zoo theory! Zoo theory! Somebody said zoo theory! Wikipedia calls it the "zoo hypothesis" in its article created in 2006. Despite the headlines, it's not new, nor is it bizarre. I remember talking about similar ideas with friends in the 3rd grade, and that's where it belongs. Such musings are the bread-and-butter of sci-fi, and just reading about them brings to mind the smell of bubble gum and the feel of Legos in my hands.
+They all seem to be excited about the phrase "zoo theory." Zoo theory! Zoo theory! Somebody said zoo theory! Wikipedia calls it the "zoo hypothesis" in its article created in 2006. One blazingly stupid and misinformed click-bait headline reads, "Shocking new discovery about aliens floors scientists."
+
+Despite the headlines, it's not new, nor is it bizarre. I remember talking about similar ideas with friends in the 3rd grade, and that's where it belongs. Such musings are the bread-and-butter of sci-fi, and just reading about them brings to mind the smell of bubble gum and the feel of Legos in my hands.
 
 Never mind all that silliness. I find this paper interesting for one reason only: the radio astronomer who wrote it has God on his mind, but he has no scientific means to deal with those thoughts. In other words, he's spiritually dazed and confused, but in his heart he knows God exists.
 
