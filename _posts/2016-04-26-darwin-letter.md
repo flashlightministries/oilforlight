@@ -18,9 +18,9 @@ In 1880, two years before his death, Darwin wrote a letter to atheist Edward Ave
 
 And the following is a terse private letter he wrote to a Christian fan of his, also in 1880:
 
-I am sorry to have to inform you that I do not believe in the Bible as a divine revelation & therefore not in Jesus Christ as the son of God.
-Yours faithfully
-Ch. Darwin
+> I am sorry to have to inform you that I do not believe in the Bible as a divine revelation & therefore not in Jesus Christ as the son of God.
+> Yours faithfully
+> Ch. Darwin
 
 This letter sold at auction for $197,000 in 2015. I like that it ends with "Yours faithfully."
 
