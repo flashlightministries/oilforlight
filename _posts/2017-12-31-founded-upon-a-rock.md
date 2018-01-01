@@ -43,3 +43,7 @@ Now, here we witness the reversal of presuppositions that Darwinian evolutionary
 Despite what your public school teachers may have taught you, Darwinian evolution (and the rest of scientism) is philosophy, not science. As for the solid ground,
 
 Jesus said, "Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like: he is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock" (Luke 6:47-48).
+
+There is no solid ground to be found in this scientist's paper, but only the mists and vapors of philosophy. It's full of questions, as it admits, and conjecture. It is no small matter that the author points out the millions of dollars up for grabs in prizes and awards for the first person to show that ETs exist. For the unbeliever floating in a relativistic cloud of meaninglessness, it is cash and fame that delight, not the truth of God and His saving work through Jesus Christ.
+
+God's children are not confused, doubting our place in the vastness of space and looking for answers in the outer darkness. God's children are founded upon the rock of Jesus Christ, understanding our place and role to preach His gospel throughout all the world so that many can be saved by believing in Him.
