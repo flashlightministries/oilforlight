@@ -32,7 +32,7 @@ With regard to ETs, this mindset leads directly to the assumption that we are pr
 
 With regard to the Christian view of things, which would assert that mankind is special, unique, created in the image of God and taking part in His eternal plan, the scientist warns, "Now we must be wary of slipping off the craggy cliff edge that forms the boundary between the solid ground of science and the mists and vapors of philosophy and religion."
 
-Now, here we witness the reversal of presuppositions that Darwinian evolution has accomplished. From the Christian perspective, it is Darwinian evolution that dwells in "the mists and vapors of philosophy" and it is belief in Jesus Christ that provides the "solid ground."
+Now, here we witness the reversal of presuppositions that Darwinian evolutionary theory has accomplished. From the Christian perspective, it is Darwinian evolution that dwells in "the mists and vapors of philosophy" and it is belief in Jesus Christ that provides the "solid ground."
 
 Despite what your public school teachers may have taught you, Darwinian evolution (and the rest of scientism) is philosophy, not science. As for the solid ground,
 
