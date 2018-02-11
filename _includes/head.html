@@ -75,7 +75,7 @@
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 {% if page.image.feature %}<meta property="og:image" content="{% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}{{ page.image.feature }}{% else %}{{ site.url }}/images/{{ page.image.feature }}{% endif %}">{% endif %}  
 
-{% seo %}  
+{% seo title=false %}  
   
 </head>
 
