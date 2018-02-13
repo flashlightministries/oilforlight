@@ -10,7 +10,7 @@ published: true
 
 T.C. Howitt writes about the gospel of Jesus Christ, using the Bible to illuminate our benighted culture of secular humanism, atheism, scientism and technological idolatry.
 
-A former software architect, he now endeavors to answer the question, How can Christians live faithfully according to God's will in this technological society?  He's currently working on a book titled, **_The Tower and the Tabernacle: A Biblical Examination of the Power and Purpose of Technique_**.
+A former software architect, he now endeavors to answer the question, How can Christians live faithfully according to God's will in this technological society?  He's currently working on a book titled, **_The Tower and the Tabernacle: A Biblical Examination of Technique_**.
 
 ### What does "Oil for Light" mean?
 
