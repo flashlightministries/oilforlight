@@ -8,11 +8,9 @@ published: true
 
 > Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine (2 Timothy 4:2).
 
-T.C. Howitt writes at the gospel crossroads of truth and reality, using the Bible to illuminate our benighted culture and declaim the wickedness surrounding us in the forms of secular humanism, atheism, scientism and technological idolatry.
+T.C. Howitt writes about the gospel of Jesus Christ, using the Bible to illuminate our benighted culture and declaim the wickedness surrounding us in the forms of secular humanism, atheism, scientism and technological idolatry.
 
-And sometimes, he just preaches the gospel.
-
-A former enterprise software architect with 20 years of experience, he now endeavors to answer the question, How can Christians live faithfully according to God's will in the modern world?  He's currently working on a book titled, **_The Tower and the Tabernacle: A Biblical Examination of the Power and Purpose of Technique_**.
+A former software architect, he now endeavors to answer the question, How can Christians live faithfully according to God's will in this technological society?  He's currently working on a book titled, **_The Tower and the Tabernacle: A Biblical Examination of the Power and Purpose of Technique_**.
 
 ### What does "Oil for Light" mean?
 
