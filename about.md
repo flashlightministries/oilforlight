@@ -8,7 +8,7 @@ published: true
 
 > Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine (2 Timothy 4:2).
 
-T.C. Howitt writes about the gospel of Jesus Christ, using the Bible to illuminate our benighted culture of secular humanism, atheism, scientism and technological idolatry.
+T.C. Howitt writes at the crossroads of society and the gospel of Jesus Christ, using the Bible to illuminate our benighted culture of secular humanism, atheism, scientism and technological idolatry.
 
 A former software architect, he now endeavors to answer the question, How can Christians live faithfully according to God's will in this technological society?  He's currently working on a book titled, **_The Tower and the Tabernacle: A Biblical Examination of Technique_**.
 
