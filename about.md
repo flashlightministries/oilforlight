@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About Oil for Light
-description: A blog of Christian polemics by T.C. Howitt
+description: The Christian polemical writings of T.C. Howitt
 published: true
 ---
 
