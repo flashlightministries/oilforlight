@@ -8,7 +8,7 @@ image:
 comments: false
 ---
 
-The crucifixion of Jesus Christ is a hard pill to swallow.  Believe it or not, Jesus sacrificed his life to save yours, and three days later he rose from the dead.  That statement pushes the limits of credulity, and indeed, many intelligent people find it impossible to believe.
+The crucifixion of Jesus Christ is a hard pill to swallow.  Believe it or not, Jesus sacrificed his life to save yours, and three days later he rose from the dead.  That statement pushes the limits of credulity, and many intelligent people find it impossible to believe.
 
 How could any self-respecting thinking person accept the following instruction?
 
@@ -28,9 +28,9 @@ I know it can be hard to share the true gospel.  People hate God's word because 
 
 The unsaved aren't even honest with themselves when it comes to this most essential subject, so they resort to mocking.  Many believers, facing such unpleasantness from unbelievers, just keep quiet.  And that's exactly what the unrepentant want.  But who lights a lamp and then puts it under a basket (Luke 11:33)?
 
-Men are indeed glorified by hearing the preaching of the cross and believing, but first they are humbled and it is Christ who lifts them up.
+Men are glorified by hearing the preaching of the cross and believing, but first they are humbled and it is Christ who lifts them up.
 
-Such a denial of self would be impossible without God, and indeed, it serves as a check-valve for rejecting those who would believe falsely and be saved falsely.  When the twelve disciples asked Jesus why He doesn't speak directly to those outside the kingdom of God, but only in parables, He said, "That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them" (Mark 4:12).  The spiritual meaning of this teaching is that only those who have believed in Jesus Christ as their savior will receive the truth and be lifted up.
+Such a denial of self would be impossible without God, and this serves as a check-valve for rejecting those who would believe falsely and be saved falsely.  When the twelve disciples asked Jesus why He doesn't speak directly to those outside the kingdom of God, but only in parables, He said, "That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them" (Mark 4:12).  The spiritual meaning of this teaching is that only those who have believed in Jesus Christ as their savior will receive the truth and be lifted up.
 
 God makes the impossible possible, and the faith of believers proves it, to themselves and to anyone who would believe.
 
