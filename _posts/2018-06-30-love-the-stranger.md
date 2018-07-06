@@ -9,6 +9,7 @@ source:
     headline: SO LET ME GET THIS STRAIGHT
 image:
     feature: articles/2018-06-30-love-the-stranger/cage.jpg
+comments: false
 ---
 
 This Facebook post I'm sharing here has garnered 7 million shares since it first appeared in 2013. With illegal immigration and the treatment of refugee families now making headlines, it's popular again.
