@@ -11,7 +11,7 @@ image:
     feature: articles/2018-06-30-love-the-stranger/cage.jpg
 ---
 
-This post I'm sharing here has garnered 7 million shares since it first appeared in 2013. With illegal immigration and the treatment of refugee families now making headlines, it's popular again.
+This Facebook post I'm sharing here has garnered 7 million shares since it first appeared in 2013. With illegal immigration and the treatment of refugee families now making headlines, it's popular again.
 
 First of all, judging the fairness of US immigration policy by comparing it to those of North Korea, Afghanistan and Iran ought to strike any reasonable thinker as suspicious and ludicrous, if not self-defeating. One would hope the US treats immigrants vastly better than these other countries.
 
