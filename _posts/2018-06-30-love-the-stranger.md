@@ -8,7 +8,7 @@ source:
     url: https://www.facebook.com/photo.php?fbid=10151312166576222&set=a.10150829302276222.394506.674531221&type=3&theater
     headline: SO LET ME GET THIS STRAIGHT
 image:
-    feature: articles/2016-06-30-love-the-stranger/cage.jpg
+    feature: articles/2018-06-30-love-the-stranger/cage.jpg
 ---
 
 This post I'm sharing here has garnered 7 million shares since it first appeared in 2013. With illegal immigration and the treatment of refugee families now making headlines, it's popular again.
